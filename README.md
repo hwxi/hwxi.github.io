@@ -1,2 +1,7 @@
 # hwxi.github.io
-Home page for Hongwei Xi (hwxi@bu.edu)
+
+This is a home page for Hongwei Xi (hwxi@bu.edu).
+
+## [About Me](./ABOUTME/.)
+## [Teaching](./TEACHING/.)
+## [Research](./RESEARCH/.)

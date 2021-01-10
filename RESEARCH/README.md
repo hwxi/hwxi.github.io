@@ -79,9 +79,9 @@ is supported in ATS.
 
 A function `fib` can be specified as follows for computing Fibonacci numbers:
 
-* fib(0)   = 0
-* fib(1)   = 1
-* fib(n+2) = fib(n) + fib(n+1) for n >= 0
+* `fib(0) = 0`
+* `fib(1) = 1`
+* `fib(n+2) = fib(n) + fib(n+1) for n >= 0`
 
 Following is a direct implementation of this specified function in ATS:
 
@@ -148,15 +148,16 @@ constructors `FIB0`, `FIB1` and `FIB2` associated with `FIB`, which are given
 the following types corresponding to the three equations in the definition of
 `fib`:
 
-* FIB0 : () -> FIB(0, 0)
-* FIB1 : () -> FIB(1, 1)
-* FIB2 : {n:nat}{r0,r1:int} (FIB(n, r0), FIB(n+1, r1)) -> FIB(n+2, r0+r1)
+* `FIB0 : () -> FIB(0, 0)`
+* `FIB1 : () -> FIB(1, 1)`
+* `FIB2 : {n:nat}{r0,r1:int} (FIB(n, r0), FIB(n+1, r1)) -> FIB(n+2, r0+r1)`
 
 Note that {...} is the concrete syntax in ATS for universal
 quantification. For instance, `FIB2(FIB0(), FIB1())` is a term of the
 type `FIB(2,1)`, attesting to `fib(2)=1`.
 
-A fully verified implementaion of the fib function in ATS can now be given as follows:
+A fully verified implementaion of the `fib` function in ATS can now be
+given as follows:
 
 ```ats
 fun
@@ -197,13 +198,13 @@ fun fibats : {n:nat} int(n) -> [r:int] (FIB(n,r) | int(r))
 
 where the concrete syntax [...] is for existential quantification and
 the bar symbol (|) is just a separator (like a comma) for separating
-proofs from values. For each integer I, int(I) is a singleton type for
-the only integer whose value equals I. When fibats is applied to an
-integer of value n, it returns a pair consisting of a proof and an
-integer value r such that the proof, which is of the type FIB(n,r),
-asserts fib(n)=r. Therefore, fibats is a verified implementation of
-fib as is encoded by FIB. Note that the inner function loop directly
-corresponds to the while-loop in the body of the function fibc
+proofs from values. For each integer `I`, `int(I)` is a singleton type
+for the only integer whose value equals `I`. When `fibats` is applied to
+an integer of value `n`, it returns a pair consisting of a proof and an
+integer value `r` such that the proof, which is of the type `FIB(n,r)`,
+asserts `fib(n)=r`. Therefore, `fibats` is a verified implementation of
+`fib` as is encoded by `FIB`. Note that the inner function `loop` directly
+corresponds to the while-loop in the body of the function `fibc`
 (written in C).
 
 Lastly, it should be emphasized that proofs are completely erased

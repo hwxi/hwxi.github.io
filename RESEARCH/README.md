@@ -51,5 +51,6 @@ goals, which must be resolved with trade-offs being carefully made. In
 order to make significant progress, I firmly believe the necessity to
 adopt approaches that can scale well.
 
-## Ill-Conceived Program Verification
+## Programming with Theorem-Proving
 
+## Types for Verification and Productivity

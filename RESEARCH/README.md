@@ -40,3 +40,13 @@ for *effectively* enforcing precision in realistic software
 development.
   
 ## Being Precise Is Not Enough
+
+Programming languages are tools and programming language design and
+implementation should focus on a programmer's productity. Ideally, a
+programming language should be simple and general, and it should
+permit extensive error checking, facilitate proofs of program
+properties and possess a correct and efficient implementation.
+Invariably, there will be conflicts among these goals, which must be
+resolved with trade-offs being carefully made. In order to make
+significant progress, I firmly believe the necessity to adopt approaches
+that can scale.

@@ -12,7 +12,7 @@ degree of code sharing.
 
 The initial idea of the Applied Type System framework (for formulating
 type theory on practical programming) came to me around the end of
-2002.  I have since been continually working on the design and
+2002. I have since been continually working on the design and
 implmentation of [ATS](http://www.ats-lang.org), a programming
 language of a functional core that is equipped with support for
 advanced types such as linear types and dependent types.  As of now, I

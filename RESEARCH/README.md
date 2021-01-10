@@ -77,7 +77,8 @@ can undoubtedly result in increased programming productivity. This is
 a well-known indirect view in support of types for increased
 productivity. What is much less well-known is that types can also
 directly lead to increased programming productivity by facilitating
-code reuse at compile-time.
+code reuse at compile-time. For instance, the feature of type classes
+in Haskell makes essential use of types as the name itself suggests.
 
 ## Template-Based Programming
 

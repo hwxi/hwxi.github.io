@@ -71,6 +71,13 @@ adopt approaches that can scale well.
 
 ## Types for Productivity
 
+Traditionally, types are touted for helping debug programs.  As
+debugging is an essential part of programming, such help from types
+can undoubtedly result in increased programming productivity. This is
+a well-known indirect view in support of types for increased
+productivity. What is less well-known is that types can also directly
+lead to increased programming productivity.
+
 ## Template-Based Programming
 
 ## Programming with Theorem-Proving
@@ -216,6 +223,6 @@ Lastly, it should be emphasized that proofs are completely erased
 after they pass typechecking. In particular, there is no proof
 construction at run-time.
 
-## Building Code-Sharing Ecosystem
+## Building a Code-Sharing Ecosystem
 
 ## Multirole Logic and Multiparty Channels

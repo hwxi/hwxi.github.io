@@ -68,6 +68,8 @@ goals, which must be resolved with trade-offs being carefully made. In
 order to make significant progress, I firmly believe the necessity to
 adopt approaches that can scale well.
 
+## Types for Productivity
+
 ## Programming with Theorem-Proving
 
 ATS advocates a programming paradigm in which programs and proofs can
@@ -211,4 +213,4 @@ Lastly, it should be emphasized that proofs are completely erased
 after they pass typechecking. In particular, there is no proof
 construction at run-time.
 
-## Types for Verification and Productivity
+## Template-Based Programming

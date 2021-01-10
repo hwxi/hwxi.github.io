@@ -10,8 +10,10 @@ studying template-based programing (TBP), which advocates using
 function templates in place of functions to achieve a great deal more
 degree of code sharing.
 
-Since joining BUCS in 2001, I have been continually working on the
-design and implmentation of [ATS](http://www.ats-lang.org), a
+The initial idea of the Applied Type System framework (for studying
+type theory immediately applicable to practical programming) came to
+me around the end of 2002.  I have since been continually working on
+the design and implmentation of [ATS](http://www.ats-lang.org), a
 programming language of a functional core that is equipped with
 support for advanced types such as linear types and dependent types.
 As of now, I am actively working on
@@ -67,5 +69,33 @@ order to make significant progress, I firmly believe the necessity to
 adopt approaches that can scale well.
 
 ## Programming with Theorem-Proving
+
+ATS advocates a programming paradigm in which programs and proofs can
+be constructed in a syntactically intertwined manner. This paradigm is
+often referred to as programming with theorem-proving (PwTP), and it
+plays a central indispensible role in the development of ATS. Let us
+now see a simple and concrete example that clearly illustrates PwTP as
+is supported in ATS.
+
+A function `fib` can be specified as follows for computing Fibonacci numbers:
+
+* fib(0)   = 0
+* fib(1)   = 1
+* fib(n+2) = fib(n) + fib(n+1) for n >= 0
+
+Following is a direct implementation of this specified function in ATS:
+
+```ats
+fun
+fib (
+  n: int
+) : int =
+  if n >= 2 then fib(n-2) + fib(n-1) else n
+// end of [fib]
+```
+
+Clearly, this is a terribly inefficient implementation of exponential
+time-complexity. An implementation of fib in C is given as follows
+that is of linear time-complexity:
 
 ## Types for Verification and Productivity

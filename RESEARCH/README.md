@@ -56,7 +56,7 @@ development.
 
 Programming languages are tools and programming language design and
 implementation should focus on increasing a programmer's
-productity. Ideally, a programming language should be simple and
+productivity. Ideally, a programming language should be simple and
 general, and it should permit extensive error checking, facilitate
 proofs of program properties and possess a correct and efficient
 implementation.  Invariably, there will be conflicts among these

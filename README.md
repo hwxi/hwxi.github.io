@@ -5,3 +5,5 @@ This is a home page for Hongwei Xi (hwxi@bu.edu).
 ## [About Me](./ABOUTME/.)
 ## [Teaching](./TEACHING/.)
 ## [Research](./RESEARCH/.)
+## [Publication](./PUBLICATION/.)
+## [Graduate Students](./GRADUATE-STUDENTS/.)

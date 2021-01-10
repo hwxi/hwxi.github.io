@@ -2,6 +2,7 @@
 
 I enjoy programming.
 
+Programming means programming productively.
 My primary research interest lies in programming language design and
 implementation. In particular, I have long been studying type-based
 approaches and applying them to static debugging, that is, detecting
@@ -69,6 +70,8 @@ order to make significant progress, I firmly believe the necessity to
 adopt approaches that can scale well.
 
 ## Types for Productivity
+
+## Template-Based Programming
 
 ## Programming with Theorem-Proving
 
@@ -213,4 +216,6 @@ Lastly, it should be emphasized that proofs are completely erased
 after they pass typechecking. In particular, there is no proof
 construction at run-time.
 
-## Template-Based Programming
+## Building an Ecosystem for Code Sharing
+
+## Multirole Logic and Multiparty Channels

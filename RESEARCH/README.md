@@ -1,12 +1,14 @@
 # Research
 
-I enjoy programming. And my primary research interest lies in
-programming language design and implementation. In particular, I have
-long been applying type-based approaches to static debugging, that is,
-detecting potential programming errors before run-time. Recently, I
-have also been studying template-based programing (TBP), which
-advocates using function templates in place of functions to achieve
-a great deal more degree of code sharing.
+I enjoy programming.
+
+My primary research interest lies in programming language design and
+implementation. In particular, I have long been applying type-based
+approaches to static debugging, that is, detecting potential
+programming errors before run-time. Recently, I have also been
+studying template-based programing (TBP), which advocates using
+function templates in place of functions to achieve a great deal more
+degree of code sharing.
 
 Since joining BUCS in 2001, I have been continually working on the
 design and implmentation of [ATS](http://www.ats-lang.org), a

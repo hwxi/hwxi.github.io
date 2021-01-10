@@ -2,9 +2,9 @@
 
 I primarily teach the following courses at BUCS:
 
-* Concepts of Programming Languages (CS320)
-* Principles of Programming Languages (CS520)
 * Compiler Design and Implementation (CS525)
+* Principles of Programming Languages (CS520)
+* Concepts of Programming Languages (CS320)
 
 ## Spring, 2021
 
@@ -30,3 +30,8 @@ Familiarity with programming in general:
 
 * CS320 (Concepts of Programming Languages) or Equivalents
 
+### Reference Books
+  
+1. [Introduction to Programming in ATS](http://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/HTMLTOC/book1.html) by Hongwei Xi.
+2. [A Crash into Functional Programming via ATS](http://ats-lang.sourceforge.net/DOCUMENT/ATS2FUNCRASH/HTML/HTMLTOC/book1.html) by Hongwei Xi.
+3. [Practical Foundations for Programming Languages](http://www.cs.cmu.edu/~rwh/plbook/book.pdf) by Robert Harper.

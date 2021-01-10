@@ -216,6 +216,6 @@ Lastly, it should be emphasized that proofs are completely erased
 after they pass typechecking. In particular, there is no proof
 construction at run-time.
 
-## Building an Ecosystem for Code Sharing
+## Building Code-Sharing Ecosystem
 
 ## Multirole Logic and Multiparty Channels

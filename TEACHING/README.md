@@ -1,5 +1,11 @@
 # Teaching
 
+I primarily teaches the following courses at BUCS:
+
+* Concepts of Programming Languages (CS320)
+* Principles of Programming Languages (CS520)
+* Compiler Design and Implementation (CS525)
+
 ## Spring, 2021
 
 I am scheduled to teach BU CAS CS520 in Spring, 2021.

@@ -1,6 +1,6 @@
 # Teaching
 
-I primarily teaches the following courses at BUCS:
+I primarily teach the following courses at BUCS:
 
 * Concepts of Programming Languages (CS320)
 * Principles of Programming Languages (CS520)
@@ -16,12 +16,13 @@ I am scheduled to teach BU CAS CS520 in Spring, 2021.
 
 ### Overview
 
-This is a course that introduces
-students to some fundamental principles and techniques in modern
-programming language design and implementation. The course mainly
-covers type theories in programming and emphasizes the need for
+This is a course that introduces students to some fundamental
+principles and techniques in modern programming language design and
+implementation. It focuses on using types to specify and then verify a
+variety of program invariants while emphasizing the need for
 mathematical formalism in both describing and analyzing programming
-languages and programs.
+languages and programs. Programming for this course is to be done in
+a research language (ATS) and the amount of programming is light overall.
 
 ### Prerequisites
 

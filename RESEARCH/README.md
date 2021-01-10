@@ -75,8 +75,9 @@ Traditionally, types are touted for helping debug programs.  As
 debugging is an essential part of programming, such help from types
 can undoubtedly result in increased programming productivity. This is
 a well-known indirect view in support of types for increased
-productivity. What is less well-known is that types can also directly
-lead to increased programming productivity.
+productivity. What is much less well-known is that types can also
+directly lead to increased programming productivity by facilitating
+code reuse at compile-time.
 
 ## Template-Based Programming
 

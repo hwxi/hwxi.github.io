@@ -1,9 +1,22 @@
 # Research
 
 I enjoy programming. And my primary research interest lies in
-programming language design and implementation. In particular,
-I have been applying type-based approaches to static debugging,
-that is, detecting potential programming errors before run-time.
+programming language design and implementation. In particular, I have
+long been applying type-based approaches to static debugging, that is,
+detecting potential programming errors before run-time. Recently, I
+have also been studying template-based programing (TBP), which
+advocates using function templates in place of functions to achieve
+a great deal more degree of code sharing.
+
+Since joining BUCS in 2001, I have been continually working on the
+design and implmentation of [ATS](http://www.ats-lang.org), a
+programming language of a functional core that is equipped with
+support for advanced types such as linear types and dependent types.
+As of now, I am actively working on
+[ATS/Xanadu](https://github.com/githwxi/ATS-Xanadu), which is an
+implementation for ATS3, the third edition of ATS. My expectation is
+for ATS to turn from a programming language for research into one that
+is of production strength.
 
 ## Being Precise
 

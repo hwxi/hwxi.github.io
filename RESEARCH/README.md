@@ -73,12 +73,13 @@ adopt approaches that can scale well.
 
 Traditionally, types are touted for helping debug programs.  As
 debugging is an essential part of programming, such help from types
-can undoubtedly result in increased programming productivity. This is
-a well-known indirect view in support of types for increased
-productivity. What is much less well-known is that types can also
-directly lead to increased programming productivity by facilitating
-code reuse at compile-time. For instance, the feature of type classes
-in Haskell makes essential use of types in choosing type class instances.
+can undoubtedly result in increased programming productivity. This
+kind of indirect support of types for increased productivity is
+already well-known. What is much less well-known is that types can
+also directly result in increased programming productivity by
+facilitating code reuse at compile-time. For instance, the feature of
+type classes in Haskell makes essential use of types in choosing type
+class instances.
 
 ## Template-Based Programming
 

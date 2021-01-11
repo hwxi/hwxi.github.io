@@ -41,3 +41,10 @@ Familiarity with programming in general:
 * [ATS](http://www.ats-lang.org) (this
   [mode](http://ats-lang.sourceforge.net/DOCUMENT/ATS-Postiats/utils/emacs/ats2-mode.el)
   may be helpful if you use emacs to edit ATS source code)
+
+### Class Calendar
+
+* 01/26(Tue): Lecture#01
+* 01/26(Tue): Assignment#01 is out (due: 02/02(Tue))
+* 02/16(Tue): No Class: Substitute Monday's Schedule
+* 04/29(Thu): Last Day of Class

@@ -79,7 +79,9 @@ already well-known. What is much less well-known is that types can
 also directly result in increased programming productivity by
 facilitating code reuse at compile-time. For instance, the feature of
 type classes in Haskell makes essential use of types in choosing type
-class instances.
+class instances. And types play an even more conspicuous role in
+template-based programming, a defining feature of ATS that is partly
+inspired by type classes.
 
 ## Template-Based Programming
 

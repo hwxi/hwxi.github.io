@@ -38,5 +38,6 @@ Familiarity with programming in general:
 
 ### Programming Languages
 
-[ATS](http://www.ats-lang.org)
-(this [mode](http://ats-lang.sourceforge.net/ATS-Positiats/utils/emacs/ats2-mode.el) may be helpful if you use emacs to edit ATS source code)
+* [ATS](http://www.ats-lang.org) (this
+  [mode](http://ats-lang.sourceforge.net/ATS-Positiats/utils/emacs/ats2-mode.el)
+  may be helpful if you use emacs to edit ATS source code)

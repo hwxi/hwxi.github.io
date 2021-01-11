@@ -13,8 +13,8 @@ What kind of research have I been doing? And Why?
 
 Programming means programming productively.
 I approach programming language research with an aim at
-greatly enhancing a programmers's productivity. While my
-aim is very practical, my approach may not so :)
+greatly enhancing a programmer's productivity. While my
+aim is very practical, my approach may not be so :)
 
 ## [Publication](./PUBLICATION/.)
 

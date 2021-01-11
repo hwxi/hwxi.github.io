@@ -24,6 +24,13 @@ mathematical formalism in both describing and analyzing programming
 languages and programs. Programming for this course is to be done in
 a research language (ATS) and the amount of programming is light overall.
 
+### Logistics
+
+* Lectures:
+* Classroom:
+* Zoom Links:
+* Office Hours:
+
 ### Prerequisites
 
 Familiarity with programming in general:
@@ -46,6 +53,6 @@ Familiarity with programming in general:
 
 * 01/26(Tue): Lecture#01
 * 01/26(Tue): Assignment#01 is out (due: 02/02(Tue))
-* 02/02(Tue): Assignment#01 is due (due by: 11:59pm)
+* 02/02(Tue): Assignment#01 is due (due by 11:59pm)
 * 02/16(Tue): No Class: Substitute Monday's Schedule
 * 04/29(Thu): Last Day of Class

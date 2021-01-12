@@ -26,10 +26,11 @@ a research language (ATS) and the amount of programming is light overall.
 
 ### Logistics
 
-* Lectures:
-* Classroom:
+* Classroom: MCS B33
+* ClassTime: Tue&Thu: 2:00 -- 3:15pm
+* Office Hours: To be announced
 * Zoom Links:
-* Office Hours:
+* Piazza Link:
 
 ### Prerequisites
 

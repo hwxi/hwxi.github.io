@@ -2,8 +2,6 @@
 
 ## ATS: An Approach to Practical Programming with Theorem-Proving
 
-### Links: [pdf](./../MYDATA/ATSfoundation.pdf)
-
 ### Abstract
 
 The framework Pure Type System (PTS) offers a simple and general
@@ -30,9 +28,9 @@ programming language with a type system rooted in **ATS**, in support
 of employing **ATS** as a framework to formulate advanced type systems
 for practical programming.
 
-## DML: An Approach to Practical Programming with Dependent Types
+### Links: [pdf](./../MYDATA/ATSfoundation.pdf)
 
-### Links: [pdf](./../MYDATA/DML-jfp07.pdf)
+## DML: An Approach to Practical Programming with Dependent Types
 
 ### Abstract
 
@@ -49,9 +47,9 @@ programming. In particular, this design makes it both natural and
 straightforward to accommodate dependent types in the presence of
 effects such as references and exceptions.
 
-## Guarded Recursive Datatype Constructors
+### Links: [pdf](./../MYDATA/DML-jfp07.pdf)
 
-### Links: [pdf](./../MYDATA/GRDT-popl03.pdf)
+## Guarded Recursive Datatype Constructors
 
 ### Abstract
 
@@ -68,9 +66,9 @@ consequences in programming. The main contribution of the paper lies in the
 recognition and then the formalization of a programming notion that is of
 both theoretical interest and practical use.
 
-## Imperative Programming with Dependent Types
+### Links: [pdf](./../MYDATA/GRDT-popl03.pdf)
 
-### Links: [pdf](./../MYDATA/Xanadu-lics00.pdf)
+## Imperative Programming with Dependent Types
 
 ### Abstract:
 
@@ -86,9 +84,9 @@ claimed that the language design of Xanadu is novel and it can serve
 as an informative example to demonstrate a means for combining
 imperative programming with dependent types.
 
-## Combining Programming with Theorem-Proving
+### Links: [pdf](./../MYDATA/Xanadu-lics00.pdf)
 
-### Links: [pdf](./../MYDATA/CPwTP-icfp05.pdf)
+## Combining Programming with Theorem-Proving
 
 ### Abstract
 
@@ -110,9 +108,9 @@ the programmer to combine programming with theorem proving. Also we
 present some concrete examples in support of the practicality of this
 design.
 
-## To Memory Safety through Proofs
+### Links: [pdf](./../MYDATA/CPwTP-icfp05.pdf)
 
-Links: [pdf](./../MYDATA/VsTsVTs-2018-10-28.pdf)
+## To Memory Safety through Proofs
 
 ### Abstract
 
@@ -128,9 +126,9 @@ of the paper. In addition, we also mention a running implementation of
 the type system and then give some examples in support of the practicality
 of programming with recursive stateful views.
 
-## Safe Programming with Pointers through Stateful Views
+### Links: [pdf](./../MYDATA/VsTsVTs-2018-10-28.pdf)
 
-Links: [pdf](./../MYDATA/SPPSV-padl05.pdf)
+## Safe Programming with Pointers through Stateful Views
 
 ### Abstract
 
@@ -147,3 +145,5 @@ ATS and guaranteed to be safe by the type system of ATS. In thispaper,
 we give an overview of this feature in ATS, presenting some interesting
 examples based on a prototype implementation of ATS to demonstrate the
 practicality of safe programming with pointer through stateful views.
+
+### Links: [pdf](./../MYDATA/SPPSV-padl05.pdf)

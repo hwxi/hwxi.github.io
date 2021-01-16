@@ -42,7 +42,7 @@ Familiarity with programming in general:
   
 1. [Introduction to Programming in ATS](http://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/HTMLTOC/book1.html) by Hongwei Xi.
 2. [A Crash into Functional Programming via ATS](http://ats-lang.sourceforge.net/DOCUMENT/ATS2FUNCRASH/HTML/HTMLTOC/book1.html) by Hongwei Xi.
-3. [Practical Foundations for Programming Languages](http://www.cs.cmu.edu/~rwh/plbook/book.pdf) by Robert Harper.
+3. [Practical Foundations for Programming Languages](http://www.cs.cmu.edu/~rwh/pfpl/index.html) by Robert Harper.
 
 ### Programming Languages
 

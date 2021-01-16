@@ -2,7 +2,7 @@
 
 ## ATS: An Approach to Practical Programming with Theorem-Proving
 
-### Author: Hongwei Xi
+### Author(s): Hongwei Xi
 
 ### Abstract
 
@@ -34,7 +34,7 @@ for practical programming.
 
 ## DML: An Approach to Practical Programming with Dependent Types
 
-### Author: Hongwei Xi
+### Author(s): Hongwei Xi
 
 ### Abstract
 
@@ -55,7 +55,7 @@ effects such as references and exceptions.
 
 ## Guarded Recursive Datatype Constructors
 
-### Author: Hongwei Xi, Chiyan Chen, and Gang Chen
+### Author(s): Hongwei Xi, Chiyan Chen, and Gang Chen
 
 ### Abstract
 
@@ -76,7 +76,7 @@ both theoretical interest and practical use.
 
 ## Imperative Programming with Dependent Types
 
-### Author: Hongwei Xi
+### Author(s): Hongwei Xi
 
 ### Abstract:
 
@@ -96,7 +96,7 @@ imperative programming with dependent types.
 
 ## Combining Programming with Theorem-Proving
 
-### Authors: Chiyan Chen and Hongwei Xi
+### Author(s): Chiyan Chen and Hongwei Xi
 
 ### Abstract
 
@@ -122,7 +122,7 @@ design.
 
 ## To Memory Safety through Proofs
 
-### Authors: Hongwei Xi and Dengping Zhu
+### Author(s): Hongwei Xi and Dengping Zhu
 
 ### Abstract
 
@@ -142,7 +142,7 @@ of programming with recursive stateful views.
 
 ## Safe Programming with Pointers through Stateful Views
 
-### Authors: Dengping Zhu and Hongwei Xi
+### Author(s): Dengping Zhu and Hongwei Xi
 
 ### Abstract
 

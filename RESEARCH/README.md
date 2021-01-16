@@ -80,6 +80,8 @@ goals, which must be resolved with trade-offs being carefully made. In
 order to make significant progress, I firmly believe the necessity to
 adopt approaches that can scale well.
 
+## Types for Verification
+
 ## Types for Productivity
 
 Traditionally, types are touted for helping debug programs.  As

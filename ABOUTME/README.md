@@ -21,5 +21,5 @@ at Pacific Software Research Centre (PacSoft) working on Formal
 Methods. And my supervisor was Prof. [Jim Hook](http://web.cecs.pdx.edu/~hook).
 
 I joined PacSoft in August 1998 after finishing my PhD thesis titled
-[Dependent Types in Practical Programming](./../ACADEMIC/papers/thesis.ps)
+[Dependent Types in Practical Programming](./../PUBLICATION/MYDATA/DML-thesis.pdf)
 under the supervision of Prof. [Frank Pfenning](http://www.cs.cmu.edu/~fp).

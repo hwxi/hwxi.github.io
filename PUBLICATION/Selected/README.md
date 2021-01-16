@@ -2,6 +2,8 @@
 
 ## ATS: An Approach to Practical Programming with Theorem-Proving
 
+### Author: Hongwei Xi
+
 ### Abstract
 
 The framework Pure Type System (PTS) offers a simple and general
@@ -32,6 +34,8 @@ for practical programming.
 
 ## DML: An Approach to Practical Programming with Dependent Types
 
+### Author: Hongwei Xi
+
 ### Abstract
 
 The paper presents an approach to enriching the type system of ML with
@@ -50,6 +54,8 @@ effects such as references and exceptions.
 ### Links: [pdf](./../MYDATA/DML-jfp07.pdf)
 
 ## Guarded Recursive Datatype Constructors
+
+### Author: Hongwei Xi, Chiyan Chen, and Gang Chen
 
 ### Abstract
 
@@ -70,6 +76,8 @@ both theoretical interest and practical use.
 
 ## Imperative Programming with Dependent Types
 
+### Author: Hongwei Xi
+
 ### Abstract:
 
 This paper enriches imperative programming with a form of dependent
@@ -87,6 +95,8 @@ imperative programming with dependent types.
 ### Links: [pdf](./../MYDATA/Xanadu-lics00.pdf)
 
 ## Combining Programming with Theorem-Proving
+
+### Authors: Chiyan Chen and Hongwei Xi
 
 ### Abstract
 
@@ -112,6 +122,8 @@ design.
 
 ## To Memory Safety through Proofs
 
+### Authors: Hongwei Xi and Dengping Zhu
+
 ### Abstract
 
 We present a type system capable of guaranteeing the memory safety
@@ -129,6 +141,8 @@ of programming with recursive stateful views.
 ### Links: [pdf](./../MYDATA/VsTsVTs-2018-10-28.pdf)
 
 ## Safe Programming with Pointers through Stateful Views
+
+### Authors: Dengping Zhu and Hongwei Xi
 
 ### Abstract
 

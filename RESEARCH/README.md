@@ -82,6 +82,15 @@ adopt approaches that can scale well.
 
 ## Types for Verification
 
+Types have been invented for many purposes in the course of
+programming language design and implementation. For instance, types
+are C are primarily used for determining data layouts at compile-time.
+In order to use types for verification, the underlying type system
+should be sound (or at least assumed to be sound). For a property on a
+program to be verified, the property is encoded into the type assigned
+to the program, and verifying the property is then reduced to
+verifying the well-typedness of the program.
+
 ## Programming with Theorem-Proving
 
 ATS advocates a programming paradigm in which programs and proofs can
@@ -230,11 +239,11 @@ construction at run-time.
 Traditionally, types are touted for helping debug programs.  As
 debugging is an essential part of programming, such help from types
 can undoubtedly result in increased programming productivity. This
-kind of indirect support of types for increased productivity is
+kind of *indirect* support of types for increased productivity is
 already well-known. What is much less well-known is that types can
-also directly result in increased programming productivity by
+also *directly* result in increased programming productivity by
 facilitating code reuse at compile-time. For instance, the feature of
-type classes in Haskell makes essential use of types in choosing type
+type classes in Haskell makes direct use of types in choosing type
 class instances. Moreover, types play an even more conspicuous role in
 template-based programming, a defining feature of ATS that is partly
 inspired by type classes.

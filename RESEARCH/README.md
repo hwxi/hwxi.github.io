@@ -85,11 +85,12 @@ adopt approaches that can scale well.
 Types have been invented for many purposes in the course of
 programming language design and implementation. For instance, types
 are C are primarily used for determining data layouts at compile-time.
-In order to use types for verification, the underlying type system
-should be sound (or at least assumed to be sound). For a property on a
-program to be verified, the property is encoded into the type assigned
-to the program, and verifying the property is then reduced to
-verifying the well-typedness of the program.
+In order for types to be used for verification, the underlying type
+system should be sound (or at least assumed to be sound). For a
+property on a program to be verified, the property is encoded into the
+type assigned to the program; and verifying the property is then
+reduced to verifying the well-typedness of the program, which is often
+referred to as type-checking.
 
 ## Programming with Theorem-Proving
 

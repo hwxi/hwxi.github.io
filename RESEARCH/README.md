@@ -1,8 +1,18 @@
 # Research
 
 I enjoy programming.
+And programming really means programming productively.
 
-Programming means programming productively.
+Let us first remember the following quote of HARLAN MILLS:
+
+*Mankind, under the grace of God, hungers for spiritual peace,
+esthetic achievements, family security, justice, and liberty,
+none directly satisfied by industrial productivity. But productivity
+allows the sharing of the plentiful rather than fighting over scarcity;
+it provides time for spiritual, esthetic, and family matters. It allows
+society to delegate special skills to institutions of religion, justice,
+and the preservation of liberty.*
+
 My primary research interest lies in programming language design and
 implementation. In particular, I have long been studying type-based
 approaches and applying them to static debugging, that is, detecting

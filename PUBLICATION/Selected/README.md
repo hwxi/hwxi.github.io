@@ -30,7 +30,7 @@ programming language with a type system rooted in **ATS**, in support
 of employing **ATS** as a framework to formulate advanced type systems
 for practical programming.
 
-### Links: [pdf](./../MYDATA/ATSfoundation.pdf)
+### Link(s): [pdf](./../MYDATA/ATSfoundation.pdf)
 
 ## DML: An Approach to Practical Programming with Dependent Types
 
@@ -51,7 +51,7 @@ programming. In particular, this design makes it both natural and
 straightforward to accommodate dependent types in the presence of
 effects such as references and exceptions.
 
-### Links: [pdf](./../MYDATA/DML-jfp07.pdf)
+### Link(s): [pdf](./../MYDATA/DML-jfp07.pdf)
 
 ## Guarded Recursive Datatype Constructors
 
@@ -72,7 +72,7 @@ consequences in programming. The main contribution of the paper lies in the
 recognition and then the formalization of a programming notion that is of
 both theoretical interest and practical use.
 
-### Links: [pdf](./../MYDATA/GRDT-popl03.pdf)
+### Link(s): [pdf](./../MYDATA/GRDT-popl03.pdf)
 
 ## Imperative Programming with Dependent Types
 
@@ -92,7 +92,7 @@ claimed that the language design of Xanadu is novel and it can serve
 as an informative example to demonstrate a means for combining
 imperative programming with dependent types.
 
-### Links: [pdf](./../MYDATA/Xanadu-lics00.pdf)
+### Link(s): [pdf](./../MYDATA/Xanadu-lics00.pdf)
 
 ## Combining Programming with Theorem-Proving
 
@@ -118,7 +118,7 @@ the programmer to combine programming with theorem proving. Also we
 present some concrete examples in support of the practicality of this
 design.
 
-### Links: [pdf](./../MYDATA/CPwTP-icfp05.pdf)
+### Link(s): [pdf](./../MYDATA/CPwTP-icfp05.pdf)
 
 ## To Memory Safety through Proofs
 
@@ -138,7 +138,7 @@ of the paper. In addition, we also mention a running implementation of
 the type system and then give some examples in support of the practicality
 of programming with recursive stateful views.
 
-### Links: [pdf](./../MYDATA/VsTsVTs-2018-10-28.pdf)
+### Link(s): [pdf](./../MYDATA/VsTsVTs-2018-10-28.pdf)
 
 ## Safe Programming with Pointers through Stateful Views
 
@@ -160,4 +160,4 @@ we give an overview of this feature in ATS, presenting some interesting
 examples based on a prototype implementation of ATS to demonstrate the
 practicality of safe programming with pointer through stateful views.
 
-### Links: [pdf](./../MYDATA/SPPSV-padl05.pdf)
+### Link(s): [pdf](./../MYDATA/SPPSV-padl05.pdf)

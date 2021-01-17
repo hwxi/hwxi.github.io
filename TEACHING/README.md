@@ -59,3 +59,10 @@ Familiarity with programming in general:
 * 02/02(Tue): Assignment#01 is due (due by 11:59pm)
 * 02/16(Tue): No Class: Substitute Monday's Schedule
 * 04/29(Thu): Last Day of Class
+
+## Course Taught Previously
+
+### [CS525 (Fall, 2020)](./CS525/2020F/.)
+### [CS520 (Spring, 2020)](./CS520/2020S/.)
+### [CS525 (Fall, 2019)](./CS525/2020F/.)
+### [CS520 (Spring, 2019)](./CS520/2019S/.)

@@ -2,8 +2,7 @@
 
 Programming really means programming productively.
 
-Let us first remember the following quote of HARLAN MILLS
-on productivity:
+Let me first quote HARLAN MILLS on productivity:
 
 *Mankind, under the grace of God, hungers for spiritual peace,
 esthetic achievements, family security, justice, and liberty,

@@ -1,6 +1,6 @@
 # Research
 
-Programming really means programming productively.
+Programming means to program productively.
 
 Let me first quote HARLAN MILLS on productivity:
 

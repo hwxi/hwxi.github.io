@@ -33,6 +33,7 @@ a research language (ATS) and the amount of programming is light overall.
 * Office Hours: To be announced
 * Zoom Links: [For lectures](https://bostonu.zoom.us/j/99556122844?pwd=OGswTFpuV3ZOckJpdzRMUlcwSHB2QT09)
 * Piazza Link: [For discussions](https://piazza.com/bu/spring2021/bucascs520/home)
+* Class Repository: [https://github.com/hwxi/CS520-2021-Spring](https://github.com/hwxi/CS520-2021-Spring)
 
 ### Prerequisites
 

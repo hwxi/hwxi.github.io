@@ -31,8 +31,8 @@ a research language (ATS) and the amount of programming is light overall.
 * Classroom: MCS B33
 * ClassTime: Tue&Thu: 2:00 -- 3:15pm
 * Office Hours: To be announced
-* Zoom Links: [For lectures](https://bostonu.zoom.us/meeting/99556122844)
-* Piazza Link: [For discussions](https://piazza.com/class/kk0brsa46m52kz)
+* Zoom Links: [For lectures](https://bostonu.zoom.us/j/99556122844?pwd=OGswTFpuV3ZOckJpdzRMUlcwSHB2QT09)
+* Piazza Link: [For discussions](https://piazza.com/bu/spring2021/bucascs520/home)
 
 ### Prerequisites
 

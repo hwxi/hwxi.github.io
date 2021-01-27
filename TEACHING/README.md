@@ -35,6 +35,8 @@ a research language (ATS) and the amount of programming is light overall.
 * Piazza Link: [For discussions](https://piazza.com/bu/spring2021/bucascs520/home)
 * Class Repository: [https://github.com/hwxi/CS520-2021-Spring](https://github.com/hwxi/CS520-2021-Spring)
 
+### [Schedule](./CS520/2021S/schedule.txt)
+
 ### Prerequisites
 
 Familiarity with programming in general:

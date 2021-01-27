@@ -1,0 +1,29 @@
+######
+
+Schedule for CS520, Spring, 2021
+
+######
+
+01-26(Tue):
+
+Welcome on board!
+
+Introduction to CS520.
+
+What is program correctness?
+
+Testing can find bugs. But no bugs found so far does not guaranteed
+that no bugs will turn up later.
+
+Comparing implementations of fibo (for computing Fibonacci numbers)
+in C (imperative programming) with corresponding ones in ATS (functional
+programming).
+
+Recursion is ubiquitous in programming. Loops in imperative programming
+corresponds to tail-recursive functions in functional programming.
+
+######
+
+01-28(Thu):
+
+###### end of [schedule.txt] ######

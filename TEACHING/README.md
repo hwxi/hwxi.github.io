@@ -37,6 +37,25 @@ a research language (ATS) and the amount of programming is light overall.
 
 ### [Schedule](./CS520/2021S/schedule.txt)
 
+### Grading Policy
+
+First and foremost, if you are not sure about what is being asked
+to do, please seek clarification on the Piazza page.
+
+If you feel that your work is not fairly graded, please raise your
+concern to me ASAP. If you don't, then I could not tell.
+
+1. You receive 10% bonus points for submitting each assignment on time.
+
+2. For a programming task, your implementation must compile and pass a
+given test in order for you to receive *any* credit.
+
+3. You can fix bugs in your code and submit for re-grading. There is
+an automatic 20% deduction of credit for each re-grading.  For
+instance, if you earned 100 points on a re-grading, you would actually
+be credited with 80 points.  A request needs to be explicitly made if
+you want something to be re-graded for the 2nd time.
+
 ### Prerequisites
 
 Familiarity with programming in general:
@@ -54,26 +73,6 @@ Familiarity with programming in general:
 * [ATS](http://www.ats-lang.org) (this
   [mode](http://ats-lang.sourceforge.net/DOCUMENT/ATS-Postiats/utils/emacs/ats2-mode.el)
   may be helpful if you use emacs to edit ATS source code)
-
-### Grading Policy
-
-First and foremost, if you feel that your work is not fairly graded,
-please raise your concern to me ASAP. If you don't, then I could not
-tell.
-
-If you are not sure about what is being asked to do, please seek
-clarification on the Piazza page.
-
-1. You receive 10 bonus points for submitting each assignment on time.
-
-2. For a programming task, your implementation must compile and pass a
-given test in order for you to receive *any* credit.
-
-3. You can fix bugs in your code and submit for re-grading. There is
-an automatic 20% deduction of credit for each re-grading.  For
-instance, if you earned 100 points on a re-grading, you would actually
-be credited with 80 points.  A request needs to be explicitly made if
-you want something to be re-graded for the 2nd time.
 
 ### Class Calendar
 

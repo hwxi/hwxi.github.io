@@ -58,15 +58,18 @@ Familiarity with programming in general:
 ### Grading Policy
 
 First and foremost, if you feel that your work is not fairly graded,
-please raise your concern to me ASAP. If you don't, then I could tell.
+please raise your concern to me ASAP. If you don't, then I could not
+tell.
 
 If you are not sure about what is being asked to do, please seek
 clarification on the Piazza page.
 
-1. For a programming task, your implementation must compile and pass a
+1. You receive 10 bonus points for submitting each assignment on time.
+
+2. For a programming task, your implementation must compile and pass a
 given test in order for you to receive *any* credit.
 
-2. You can fix bugs in your code and submit for re-grading. There is
+3. You can fix bugs in your code and submit for re-grading. There is
 an automatic 20% deduction of credit for each re-grading.  For
 instance, if you earned 100 points on a re-grading, you would actually
 be credited with 80 points.  A request needs to be explicitly made if

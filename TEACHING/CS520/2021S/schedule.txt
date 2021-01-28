@@ -12,8 +12,8 @@ Introduction to CS520.
 
 What is program correctness?
 
-Testing can find bugs. But no bugs found so far does not guaranteed
-that no bugs will turn up later.
+Testing can find bugs. But no bugs being found so far does not
+guarantee absence of bugs.
 
 Comparing implementations of fibo (for computing Fibonacci numbers)
 in C (imperative programming) with corresponding ones in ATS (functional

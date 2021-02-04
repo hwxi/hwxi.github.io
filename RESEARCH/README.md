@@ -75,15 +75,15 @@ productivity. Ideally, a programming language should be simple and
 general, and it should permit extensive error checking, facilitate
 proofs of program properties and possess a correct and efficient
 implementation.  Invariably, there will be conflicts among these
-goals, which must be resolved with trade-offs being carefully made. In
-order to make significant progress, I firmly believe the necessity to
-adopt approaches that can scale well.
+goals, which must be resolved with trade-offs being carefully
+tailored. In order to make significant progress, I firmly believe the
+necessity to adopt approaches that can scale well.
 
 ## Types for Verification
 
 Types have been invented for many purposes in the course of
 programming language design and implementation. For instance, types
-are C are primarily used for determining data layouts at compile-time.
+in C are primarily used for determining data layouts at compile-time.
 In order for types to be used for verification, the underlying type
 system should be sound (or at least assumed to be sound). For a
 property on a program to be verified, the property is encoded into the
@@ -98,7 +98,7 @@ be constructed in a syntactically intertwined manner. This paradigm is
 often referred to as programming with theorem-proving (PwTP), and it
 plays a central indispensible role in the development of ATS. Let us
 now see a simple and concrete example that clearly illustrates PwTP as
-is supported in ATS.
+is being supported in ATS.
 
 A function `fib` can be specified as follows for computing Fibonacci numbers:
 

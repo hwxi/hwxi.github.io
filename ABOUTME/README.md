@@ -1,8 +1,8 @@
 # About Me
 
-I am the principal designer and implementer of the
-[ATS programming language system](http://www.ats-lang.org).
-Currently, I am working on [ATS/Xanadu](https://github.com/githwxi/ATS-Xanadu),
+I am the principal designer, implementer and maintainer of the [ATS
+programming language system](http://www.ats-lang.org).  Currently, I
+am working on [ATS3/Xanadu](https://github.com/githwxi/ATS-Xanadu),
 which is an implementation for ATS3, the third edition of ATS.
 
 Professionally, I am currently a tenured associate professor in the
@@ -13,8 +13,8 @@ Carnegie Mellon University in 1998 with a PhD degree in Pure and
 Applied Logic.
   
 Before joining BU in October 2001, I was a tenure-track assistant
-professor at the Electrical & Computer Engineering and Computer Science
-at University of Cincinnati (UC).
+professor in the Department of Electrical & Computer Engineering and
+Computer Science (ECECS) at University of Cincinnati (UC).
 
 Before joining UC in September 1999, I was a post-doctoral researcher
 at Pacific Software Research Centre (PacSoft) working on Formal

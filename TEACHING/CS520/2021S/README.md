@@ -1,35 +1,33 @@
-# Teaching
+## Spring, 2021
 
-I primarily teach the following courses at BUCS:
-
-* Compiler Design and Implementation (CS525)
-* Concepts of Programming Languages (CS320)
-* Principles of Programming Languages (CS520)
-
-## Fall, 2021
-
-I am scheduled to teach BU CAS CS525 in Fall, 2021.
+I am scheduled to teach BU CAS CS520 in Spring, 2021.
 
 ### Title
 
-* Compiler Design and Implementation
+* Principles of Programming Languages
 
 ### Overview
 
-This is a course ...
+This is a course that introduces students to some fundamental
+principles and techniques in modern programming language design and
+implementation. It focuses on using types to specify and then verify a
+variety of program invariants while emphasizing the need for
+mathematical formalism in both describing and analyzing programming
+languages and programs. Programming for this course is to be done in
+a research language (ATS) and the amount of programming is light overall.
 
-### [Syllabus](./CS525/2021F/syllabus.pdf)
+### [Syllabus](./syllabus.pdf)
 
 ### Logistics
 
-* Classroom: ...
-* ClassTime: ...
-* Office Hours: ...
-* Zoom Links: [For lectures](...)
-* Piazza Link: [For discussions](...)
-* Class Repository: [https://github.com/hwxi/CS525-2021-Fall](https://github.com/hwxi/CS525-2021-Fall)
+* Classroom: MCS B33
+* ClassTime: Tue&Thu: 2:00 -- 3:15pm
+* Office Hours: To be announced
+* Zoom Links: [For lectures](https://bostonu.zoom.us/j/99556122844?pwd=OGswTFpuV3ZOckJpdzRMUlcwSHB2QT09)
+* Piazza Link: [For discussions](https://piazza.com/bu/spring2021/bucascs520/home)
+* Class Repository: [https://github.com/hwxi/CS520-2021-Spring](https://github.com/hwxi/CS520-2021-Spring)
 
-### [Schedule](./CS525/2021F/schedule.txt)
+### [Schedule](./schedule.txt)
 
 ### Grading Policy
 
@@ -70,10 +68,8 @@ Familiarity with programming in general:
 
 ### Class Calendar
 
-## Courses Taught Previously
-
-### [CS520 (Spring, 2021)](./CS521/2020S/.)
-### [CS525 (Fall, 2020)](./CS525/2020F/.)
-### [CS520 (Spring, 2020)](./CS520/2020S/.)
-### [CS525 (Fall, 2019)](./CS525/2020F/.)
-### [CS520 (Spring, 2019)](./CS520/2019S/.)
+* 01/26(Tue): Lecture#01
+* 01/26(Tue): Assignment#01 is out (due: 02/02(Tue))
+* 02/02(Tue): Assignment#01 is due (due by 11:59pm)
+* 02/16(Tue): No Class: Substitute Monday's Schedule
+* 04/29(Thu): Last Day of Class

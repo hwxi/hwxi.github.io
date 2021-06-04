@@ -3,8 +3,33 @@
 I primarily teach the following courses at BUCS:
 
 * Compiler Design and Implementation (CS525)
-* Principles of Programming Languages (CS520)
 * Concepts of Programming Languages (CS320)
+* Principles of Programming Languages (CS520)
+
+## Fall, 2021
+
+I am scheduled to teach BU CAS CS525 in Fall, 2021.
+
+### Title
+
+* Compiler Design and Implementation
+
+### Overview
+
+This is a course ...
+
+### [Syllabus](./CS525/2021F/syllabus.pdf)
+
+### Logistics
+
+* Classroom: ...
+* ClassTime: ...
+* Office Hours: ...
+* Zoom Links: [For lectures](...)
+* Piazza Link: [For discussions](...)
+* Class Repository: [https://github.com/hwxi/CS525-2021-Fall](https://github.com/hwxi/CS525-2021-Fall)
+
+### [Schedule](./CS525/2021F/schedule.txt)
 
 ## Spring, 2021
 

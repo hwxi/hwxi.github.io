@@ -60,7 +60,6 @@ Familiarity with programming in general:
   
 1. [Introduction to Programming in ATS](http://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/HTMLTOC/book1.html) by Hongwei Xi.
 2. [A Crash into Functional Programming via ATS](http://ats-lang.sourceforge.net/DOCUMENT/ATS2FUNCRASH/HTML/HTMLTOC/book1.html) by Hongwei Xi.
-3. [Practical Foundations for Programming Languages](http://www.cs.cmu.edu/~rwh/pfpl/index.html) by Robert Harper.
 
 ### Programming Languages
 
@@ -72,7 +71,7 @@ Familiarity with programming in general:
 
 ## Courses Taught Previously
 
-### [CS520 (Spring, 2021)](./CS521/2020S/.)
+### [CS520 (Spring, 2021)](./CS525/2020S/.)
 ### [CS525 (Fall, 2020)](./CS525/2020F/.)
 ### [CS520 (Spring, 2020)](./CS520/2020S/.)
 ### [CS525 (Fall, 2019)](./CS525/2020F/.)

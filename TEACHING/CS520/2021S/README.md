@@ -1,6 +1,6 @@
 ## Spring, 2021
 
-I am scheduled to teach BU CAS CS520 in Spring, 2021.
+I was scheduled to teach BU CAS CS520 in Spring, 2021.
 
 ### Title
 

@@ -1,4 +1,4 @@
-# About Me
+# About Me([CV](./Xi-CV.html))
 
 I am the principal designer, implementer and maintainer of the [ATS
 programming language system](http://www.ats-lang.org).  Currently, I

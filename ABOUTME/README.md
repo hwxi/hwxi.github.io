@@ -1,5 +1,5 @@
 # About Me
-###([CV.html](./Xi-CV.html))([CV.pdf](./Xi-CV.pdf))
+### ([Xi-CV.html](./Xi-CV.html))([Xi-CV.pdf](./Xi-CV.pdf))
 
 I am the principal designer, implementer and maintainer of the [ATS
 programming language system](http://www.ats-lang.org).  Currently, I

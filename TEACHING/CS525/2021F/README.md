@@ -21,6 +21,13 @@ you so wish.
 
 ### Logistics
 
+* Classroom: CGS 311
+* ClassTime: Mon&Wed: 2:30 -- 3:45pm
+* Office Hours: To be announced
+* Zoom Links: [For lectures](...)
+* Piazza Link: [For discussions](...)
+* Class Repository: [https://github.com/hwxi/CS525-2021-Fall](https://github.com/hwxi/CS525-2021-Fall)
+
 ### [Schedule](./schedule.txt)
 
 ### Grading Policy

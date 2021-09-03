@@ -23,6 +23,7 @@ you so wish.
 
 * Classroom: CGS 311
 * ClassTime: Mon&Wed: 2:30 -- 3:45pm
+* LabRoom&Time: KCB 107 Mon: 1:25 -- 2:15 (only if announced ahead)
 * Office Hours: To be announced
 * Zoom Links: [For lectures](...)
 * Piazza Link: [For discussions](...)

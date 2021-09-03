@@ -20,13 +20,6 @@ a research language (ATS) and the amount of programming is light overall.
 
 ### Logistics
 
-* Classroom: MCS B33
-* ClassTime: Tue&Thu: 2:00 -- 3:15pm
-* Office Hours: To be announced
-* Zoom Links: [For lectures](https://bostonu.zoom.us/j/99556122844?pwd=OGswTFpuV3ZOckJpdzRMUlcwSHB2QT09)
-* Piazza Link: [For discussions](https://piazza.com/bu/spring2021/bucascs520/home)
-* Class Repository: [https://github.com/hwxi/CS520-2021-Spring](https://github.com/hwxi/CS520-2021-Spring)
-
 ### [Schedule](./schedule.txt)
 
 ### Grading Policy
@@ -36,17 +29,6 @@ to do, please seek clarification on the Piazza page.
 
 If you feel that your work is not fairly graded, please raise your
 concern to me ASAP. If you don't, then I could not tell.
-
-1. You receive 10% bonus points for submitting each assignment on time.
-
-2. For a programming task, your implementation must compile and pass a
-given test in order for you to receive *any* credit.
-
-3. You can fix bugs in your code and submit for re-grading. There is
-an automatic 20% deduction of credit for each re-grading.  For
-instance, if you earned 100 points on a re-grading, you would actually
-be credited with 80 points.  A request needs to be explicitly made if
-you want something to be re-graded for the 2nd time.
 
 ### Prerequisites
 

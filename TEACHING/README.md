@@ -71,8 +71,8 @@ Familiarity with programming in general:
 
 ## Courses Taught Previously
 
-### [CS520 (Spring, 2021)](./CS520/2021S/.)
-### [CS525 (Fall, 2020)](./CS525/2020F/.)
-### [CS520 (Spring, 2020)](./CS520/2020S/.)
-### [CS525 (Fall, 2019)](./CS525/2019F/.)
 ### [CS520 (Spring, 2019)](./CS520/2019S/.)
+### [CS525 (Fall, 2019)](./CS525/2019F/.)
+### [CS520 (Spring, 2020)](./CS520/2020S/.)
+### [CS525 (Fall, 2020)](./CS525/2020F/.)
+### [CS520 (Spring, 2021)](./CS520/2021S/.)

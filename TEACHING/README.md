@@ -65,7 +65,7 @@ Familiarity with programming in general:
 
 ### Reference Books
   
-1. [Modern Compiler Design and Implementation] by Andrew Appel.
+1. Modern Compiler Design and Implementation by Andrew Appel.
 2. [Introduction to Programming in ATS](http://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/HTMLTOC/book1.html) by Hongwei Xi.
 3. [A Crash into Functional Programming via ATS](http://ats-lang.sourceforge.net/DOCUMENT/ATS2FUNCRASH/HTML/HTMLTOC/book1.html) by Hongwei Xi.
 

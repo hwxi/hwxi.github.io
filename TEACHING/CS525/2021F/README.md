@@ -8,14 +8,15 @@ I was scheduled to teach BU CAS CS525 in Fall, 2021.
 
 ### Overview
 
-This is a course that introduces students to some fundamental
-principles and techniques in modern programming language design and
-implementation. It focuses on using types to specify and then verify a
-variety of program invariants while emphasizing the need for
-mathematical formalism in both describing and analyzing programming
-languages and programs. Programming for this course is to be done in
-a research language (ATS) and the amount of programming is light overall.
-
+Compiler Design and Implementation is a course that introduces
+students to some basics in the design and implementation of
+compilers. In this course, we are to teach the theory behind various
+components of a compiler as well as the programming techniques
+involved to put the theory into practice. The chosen programming
+language for implementation is ATS. However, you are free to choose
+another programming language (preferably, one of functional style) if
+you so wish.
+  
 ### [Syllabus](./syllabus.pdf)
 
 ### Logistics

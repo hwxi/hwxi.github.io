@@ -16,7 +16,14 @@ I am scheduled to teach BU CAS CS525 in Fall, 2021.
 
 ### Overview
 
-This is a course ...
+Compiler Design and Implementation is a course that introduces
+students to some basics in the design and implementation of
+compilers. In this course, we are to teach the theory behind various
+components of a compiler as well as the programming techniques
+involved to put the theory into practice. The chosen programming
+language for implementation is ATS. However, you are free to choose
+another programming language (preferably, one of functional style) if
+you so wish.
 
 ### [Syllabus](./CS525/2021F/syllabus.pdf)
 
@@ -58,14 +65,17 @@ Familiarity with programming in general:
 
 ### Reference Books
   
-1. [Introduction to Programming in ATS](http://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/HTMLTOC/book1.html) by Hongwei Xi.
-2. [A Crash into Functional Programming via ATS](http://ats-lang.sourceforge.net/DOCUMENT/ATS2FUNCRASH/HTML/HTMLTOC/book1.html) by Hongwei Xi.
+1. [Modern Compiler Design and Implementation] by Andrew Appel.
+2. [Introduction to Programming in ATS](http://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/HTMLTOC/book1.html) by Hongwei Xi.
+3. [A Crash into Functional Programming via ATS](http://ats-lang.sourceforge.net/DOCUMENT/ATS2FUNCRASH/HTML/HTMLTOC/book1.html) by Hongwei Xi.
 
 ### Programming Languages
 
 * [ATS](http://www.ats-lang.org) (this
   [mode](http://ats-lang.sourceforge.net/DOCUMENT/ATS-Postiats/utils/emacs/ats2-mode.el)
   may be helpful if you use emacs to edit ATS source code)
+
+* Or any other programming languages you are comfortable with.
 
 ### Class Calendar
 

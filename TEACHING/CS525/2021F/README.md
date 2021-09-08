@@ -26,7 +26,7 @@ you so wish.
 * LabRoom&Time: KCB 107 Mon: 1:25 -- 2:15 (only if announced ahead)
 * Office Hours: To be announced
 * Zoom Links: [For lectures](...)
-* Piazza Link: [For discussions](...)
+* Piazza Link: [For discussions](https://piazza.com/class/kt3sv7ed3md1vn)
 * Class Repository: [https://github.com/hwxi/CS525-2021-Fall](https://github.com/hwxi/CS525-2021-Fall)
 
 ### [Schedule](./schedule.txt)

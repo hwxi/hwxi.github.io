@@ -10,3 +10,6 @@
 [submodule "TEACHING/CS525/2020F/CS525-2020-Fall"]
 	path = TEACHING/CS525/2020F/CS525-2020-Fall
 	url = https://github.com/hwxi/CS525-2020-Fall
+[submodule "TEACHING/CS520/2020S/CS520-2020-Spring"]
+	path = TEACHING/CS520/2020S/CS520-2020-Spring
+	url = https://github.com/hwxi/CS520-2020-Spring

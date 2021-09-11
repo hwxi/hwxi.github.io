@@ -1,3 +1,10 @@
+######
+#
+# We use the schedule for Fall, 2012
+# with the dates being shifted accordingly.
+#
+######
+
 PPL: Principles of Programming Languages
 
 The following is an *approximate* week-by-week

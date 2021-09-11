@@ -1,5 +1,10 @@
 ######
 #
+# We use the schedule for Summer I, 2017
+# with the dates being shifted accordingly.
+#
+######
+#
 # Course No. : BU CAS CS 320
 # Course Title : Concepts of Programming Languages
 #

@@ -25,7 +25,7 @@ language for implementation is ATS. However, you are free to choose
 another programming language (preferably, one of functional style) if
 you so wish.
 
-### [Syllabus](./CS525/2021F/syllabus.pdf)
+### [Syllabus](./CS525/2021F/admin/syllabus.pdf)
 
 ### Logistics
 

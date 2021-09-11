@@ -1,0 +1,58 @@
+######
+#
+# Course No. : BU CAS CS 320
+# Course Title : Concepts of Programming Languages
+#
+# Semester: Summer I, 2017
+#
+# Instructor: Hongwei Xi (hwxiATcsDOTbuDOTedu)
+# 
+######
+
+The following is an *approximate* week-by-week course schedule:
+
+######
+
+Week One
+20 May, 14 T:
+   Introduction to Functional Programming; minimizing the use of
+   assignments; some code for drawing 2D graphics based on cairo
+20 May, 14 T: Lab: getting started with ATS
+21 May, 14 W:
+   tail-recursion; generalization and specialization
+22 May, 14 R: Names, Functions, Recursion, Types, Lists
+
+Week Two
+27 May, 14 T: programming with lists (1)
+28 May, 14 W: programming with lists (2); higher-order functions
+29 May, 14 R: programming with lists (3)
+30 May, 14 F: no class; some list-processing code
+
+Week Three
+2 June, 14 M: closures; mergesort
+3 June, 14 T: datatypes; pattern matching
+4 June, 14 W: references
+5 June, 14 R: Midterm 1
+
+Week Four
+
+9 June, 14 M: arrays
+10 June, 14 T: quick-sort
+11 June, 14 W: abstract types
+12 June, 14 R: lazy evaluation (1)
+
+Week Five
+
+16 June, 14 M: lazy evaluation (2)
+17 June, 14 T: depth-first search
+18 June, 14 W: breadth-first search
+19 June, 14 R: Midterm 2
+
+Week Six
+
+23 June, 14 T: Continuation
+24 June, 14 T: Time-complexity
+25 June, 14 W: Final Review
+26 June, 14 R: In-Class Final Exam
+
+###### end of [schedule.txt] ######

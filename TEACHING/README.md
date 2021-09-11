@@ -29,11 +29,11 @@ you so wish.
 
 ### Logistics
 
-* Classroom: ...
-* ClassTime: ...
-* Office Hours: ...
+* Classroom: CGS 311
+* ClassTime: M/W 2:30-3:45pm
+* Office Hours: TBD soon
 * Zoom Links: [For lectures](...)
-* Piazza Link: [For discussions](...)
+* Piazza Link: [For discussions](https://piazza.com/class/kt3sv7ed3md1vn)
 * Class Repository: [https://github.com/hwxi/CS525-2021-Fall](https://github.com/hwxi/CS525-2021-Fall)
 
 ### [Schedule](./CS525/2021F/schedule.txt)

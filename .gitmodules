@@ -7,3 +7,6 @@
 [submodule "TEACHING/CS320/2017F/CS320-2017-Fall"]
 	path = TEACHING/CS320/2017F/CS320-2017-Fall
 	url = https://github.com/hwxi/CS320-2017-Fall
+[submodule "TEACHING/CS525/2020F/CS525-2020-Fall"]
+	path = TEACHING/CS525/2020F/CS525-2020-Fall
+	url = https://github.com/hwxi/CS525-2020-Fall

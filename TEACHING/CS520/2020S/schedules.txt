@@ -1,0 +1,144 @@
+PPL: Principles of Programming Languages
+
+The following is an *approximate* week-by-week
+course schedule:
+
+------
+
+Week 1:
+
+2012-09-03 (T):
+Introduction to CS520
+1. Specification, Implementation and Verification
+2. Using the word-counting problem as an introductory example
+
+2012-09-05 (R):
+Introduction to Programming in ATS
+1. How to compile code written in ATS
+2. How to combine ATS code and C code together
+
+------
+
+Week 2:
+
+2012-09-10 (T):
+Introduction to Functional Programming via ATS
+0. How to install ATS
+1. Datatype declaration; pattern matching
+2. Introduction to tail-recursion
+
+2012-09-12 (R):
+
+Introduction to Functional Programming via ATS
+1. Various examples of tail-recursion
+2. Turning non-tail-recursive functions into tail-recursive ones
+
+------
+
+Week 3:
+
+2012-09-17 (T):
+Introduction to Functional Programming via ATS
+1. Polymorphic datatypes
+2. Function template: declaration and implementation
+
+2012-09-19 (R):
+Introduction to Functional Programming via ATS
+1. Higher-order functions
+2. Unsafe programming features
+
+------
+
+Week 4:
+
+2012-09-24 (T):
+Introduction to Functional Programming via ATS
+1. Exceptions
+2. References
+3. Higher-order function tree-fold 
+
+2012-09-26 (R):
+1. Mergesort on a list
+2. Quicksort on an array
+
+------
+
+Week 5:
+
+2012-10-01 (T):
+Introduction to Functional Programming via ATS
+1. Lazy-evaluation
+
+2012-10-03 (R):
+1. Introduction to linear types (Hanoi Towers)
+
+------
+
+Week 6:
+
+2012-10-08 (T): Lazy-evaluation
+2012-10-10 (R): Lazy-evaluation
+
+------
+
+Week 7:
+
+2012-10-15 (T): Substitute Monday's schedule
+2012-10-17 (R): More on recursion
+
+------
+
+Week 8:
+
+2012-10-22 (T): More on recursion
+2012-10-24 (R): Linear types: Dining Philosopher
+
+------
+
+Week 9:
+
+2012-10-29 (T): Linear types: Producer-Consumer
+2012-10-31 (R): Introduction to lambda-calculus
+
+------
+
+Week 10:
+
+2012-11-05 (T): Implementing lambda-calculus: subst
+2012-11-07 (R): Implementing lambda-calculus: subst
+
+------
+
+Week 11:
+
+2012-11-12 (T): Implementing lambda-calculus: closure
+2012-11-14 (R): Implementing lambda-calculus: closure
+
+------
+
+Week 12:
+
+2012-11-19 (T): Simple Types
+2012-11-21 (R): Simple Types
+
+------
+
+Week 13:
+
+2012-11-26 (T): Midterm
+2012-11-28 (R): Thanksgiving Recess
+
+------
+
+Week 14:
+
+2012-12-03 (T): Dependent Types
+2012-12-05 (R): Theorem-Proving
+
+------
+
+Week 15:
+
+2012-12-10 (T): Programming with Theorem-Proving
+
+------ end of [schedules.txt] ------

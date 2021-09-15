@@ -17,7 +17,7 @@ language for implementation is ATS. However, you are free to choose
 another programming language (preferably, one of functional style) if
 you so wish.
   
-### [Syllabus](./syllabus.pdf)
+### [Syllabus](./admin/syllabus.pdf)
 
 ### Logistics
 

@@ -30,9 +30,10 @@ you so wish.
 ### Logistics
 
 * Classroom: CGS 311
-* ClassTime: M/W 2:30-3:45pm
-* Office Hours: TBD soon
-* Zoom Links: [For lectures](...)
+* ClassTime: Mon&Wed: 2:30 -- 3:45pm
+* LabRoom&Time: KCB 107 Mon: 1:25 -- 2:15 (only if announced ahead)
+* Office Hours: Tuesday: 10-12; Wednesday: 4-5; and by appointments (Zoom)
+* Zoom Links: [For meetings](https://bostonu.zoom.us/j/7094072843?pwd=VFlPb3JMYmdCQWpsOTl6UXdoVjR2UT09)
 * Piazza Link: [For discussions](https://piazza.com/class/kt3sv7ed3md1vn)
 * Class Repository: [https://github.com/hwxi/CS525-2021-Fall](https://github.com/hwxi/CS525-2021-Fall)
 

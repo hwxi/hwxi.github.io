@@ -1,6 +1,6 @@
 [submodule "TEACHING/CS525/2021F/CS525-2021-Fall"]
 	path = TEACHING/CS525/2021F/CS525-2021-Fall
-	url = https://hwxi@github.com/hwxi/CS525-2021-Fall
+	url = https://github.com/hwxi/CS525-2021-Fall
 [submodule "TEACHING/CS520/2021S/CS520-2021-Spring"]
 	path = TEACHING/CS520/2021S/CS520-2021-Spring
 	url = https://github.com/hwxi/CS520-2021-Spring

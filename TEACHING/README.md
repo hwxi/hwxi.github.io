@@ -6,9 +6,9 @@ I primarily teach the following courses at BUCS:
 * Concepts of Programming Languages (CS320)
 * Principles of Programming Languages (CS520)
 
-## Fall, 2021
+## Fall, 2022
 
-I am scheduled to teach BU CAS CS525 in Fall, 2021.
+I am scheduled to teach BU CAS CS525 in Fall, 2022.
 
 ### Title
 
@@ -25,19 +25,19 @@ language for implementation is ATS. However, you are free to choose
 another programming language (preferably, one of functional style) if
 you so wish.
 
-### [Syllabus](./CS525/2021F/admin/syllabus.pdf)
+### [Syllabus](./CS525/2022F/admin/syllabus.pdf)
 
 ### Logistics
 
-* Classroom: CGS 311
+* Classroom: EOP 264
 * ClassTime: Mon&Wed: 2:30 -- 3:45pm
-* LabRoom&Time: KCB 107 Mon: 1:25 -- 2:15 (only if announced ahead)
+* LabRoom&Time: EOP 264 Mon: 1:25 -- 2:15 (only if announced ahead)
 * Office Hours: Tuesday: 10-12; Wednesday: 4-5; and by appointments (Zoom)
 * Zoom Links: [For meetings](https://bostonu.zoom.us/j/7094072843?pwd=VFlPb3JMYmdCQWpsOTl6UXdoVjR2UT09)
-* Piazza Link: [For discussions](https://piazza.com/class/kt3sv7ed3md1vn)
-* Class Repository: [https://github.com/hwxi/CS525-2021-Fall](https://github.com/hwxi/CS525-2021-Fall)
+* Piazza Link: [For discussions](https://piazza.com/class/l7r3xzcrn7041g)
+* Class Repository: [https://github.com/hwxi/CS525-2022-Fall](https://github.com/hwxi/CS525-2022-Fall)
 
-### [Schedule](./CS525/2021F/schedule.txt)
+### [Schedule](./CS525/2022F/schedule.txt)
 
 ### Grading Policy
 
@@ -82,6 +82,7 @@ Familiarity with programming in general:
 
 ## Courses Taught Previously
 
+### Year 2022: [CS525(Fall)](./CS525/2022F/.)
 ### Year 2021: [CS520(Spr.)](./CS520/2021S/.) and [CS525(Fall)](./CS525/2021F/.)
 ### Year 2020: [CS520(Spr.)](./CS520/2020S/.) and [CS525(Fall)](./CS525/2020F/.)
 ### Year 2019: [CS520(Spr.)](./CS520/2019S/.) and [CS525(Fall)](./CS525/2019F/.)

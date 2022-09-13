@@ -1,6 +1,6 @@
 ## Fall, 2022
 
-I was scheduled to teach BU CAS CS525 in Fall, 2022.
+I am scheduled to teach BU CAS CS525 in Fall, 2022.
 
 ### Title
 

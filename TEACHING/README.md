@@ -64,8 +64,8 @@ Familiarity with programming in general:
 
 ### Textbooks
 
-*Programming in SML* by Robert Harper, which is available [here](http://www.cs.cmu.edu/~rwh/isml/book.pdf)
-*Introduction to Computation and Programming Using Python* (3rd edition) by John V. Guttag
+1. *Programming in SML* by Robert Harper, which is available [here](http://www.cs.cmu.edu/~rwh/isml/book.pdf)
+2. *Introduction to Computation and Programming Using Python* (3rd edition) by John V. Guttag
 
 ### Programming Languages
 

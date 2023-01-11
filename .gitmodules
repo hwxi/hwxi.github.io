@@ -1,18 +1,18 @@
 [submodule "TEACHING/CS520/2021S/CS520-2021-Spring"]
-	path = TEACHING/CS520/2021S/CS520-2021-Spring
+	path = TEACHING/CS520/2021Sprn/CS520-2021-Spring
 	url = https://github.com/hwxi/CS520-2021-Spring
 [submodule "TEACHING/CS320/2017F/CS320-2017-Fall"]
 	path = TEACHING/CS320/2017Fall/CS320-2017-Fall
 	url = https://github.com/hwxi/CS320-2017-Fall
 [submodule "TEACHING/CS525/2020F/CS525-2020-Fall"]
-	path = TEACHING/CS525/2020F/CS525-2020-Fall
+	path = TEACHING/CS525/2020Fall/CS525-2020-Fall
 	url = https://github.com/hwxi/CS525-2020-Fall
 [submodule "TEACHING/CS520/2020S/CS520-2020-Spring"]
-	path = TEACHING/CS520/2020S/CS520-2020-Spring
+	path = TEACHING/CS520/2020Sprn/CS520-2020-Spring
 	url = https://github.com/hwxi/CS520-2020-Spring
 [submodule "TEACHING/CS525/2021F/CS525-2021-Fall"]
-	path = TEACHING/CS525/2021F/CS525-2021-Fall
+	path = TEACHING/CS525/2021Fall/CS525-2021-Fall
 	url = https://github.com/hwxi/CS525-2021-Fall
 [submodule "TEACHING/CS525/2022F/CS525-2022-Fall"]
-	path = TEACHING/CS525/2022F/CS525-2022-Fall
+	path = TEACHING/CS525/2022Fall/CS525-2022-Fall
 	url = https://github.com/hwxi/CS525-2022-Fall

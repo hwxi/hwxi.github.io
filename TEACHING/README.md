@@ -6,38 +6,41 @@ I primarily teach the following courses at BUCS:
 * Concepts of Programming Languages (CS320)
 * Principles of Programming Languages (CS520)
 
-## Fall, 2022
+## Spring, 2023
 
-I am scheduled to teach BU CAS CS525 in Fall, 2022.
+I am scheduled to teach BU CAS CS320 in Spring, 2023.
 
 ### Title
 
-* Compiler Design and Implementation
+* Concepts of Programming Languages
 
 ### Overview
 
-Compiler Design and Implementation is a course that introduces
-students to some basics in the design and implementation of
-compilers. In this course, we are to teach the theory behind various
-components of a compiler as well as the programming techniques
-involved to put the theory into practice. The chosen programming
-language for implementation is ATS. However, you are free to choose
-another programming language (preferably, one of functional style) if
-you so wish.
+Concepts of Programming Languages (CPL) is a course that introduces
+students to some fundamental concepts in programming language design and
+implementation. The primary goal is to allow students who complete this
+subject to have a good feel for the elements of style and aesthetics of
+programming and a good command of the major techniques for controlling
+complexity in programming.
 
-### [Syllabus](./CS525/2022F/admin/syllabus.pdf)
+SML is a functional programming language that makes pervasive use of
+types in capturing programming invariants. We will be starting with
+SML and then making a gradual transition from SML to Python so as to
+demonstrate concretely that the concepts learned in the context of SML
+can be readily applied in the context of Python, one of the most
+popular language in the world.
+
+Ultimately, we would like to make a convincing argument that programming
+can be a great deal of fun if you do it the right way!
+
+### [Syllabus](./CS320/2023Sprn/admin/syllabus.pdf)
 
 ### Logistics
 
-* Classroom: EOP 264
-* ClassTime: Mon&Wed: 2:30 -- 3:45pm
-* LabRoom&Time: EOP 264 Mon: 1:25 -- 2:15 (only if announced ahead)
-* Office Hours: Tuesday: 10-12; Wednesday: 4-5; and by appointments (Zoom)
-* Zoom Links: [For meetings](https://bostonu.zoom.us/j/7094072843?pwd=VFlPb3JMYmdCQWpsOTl6UXdoVjR2UT09)
+* Classroom: HAR 105
+* ClassTime: Wed&Thu: 3:30 -- 4:45pm
 * Piazza Link: [For discussions](https://piazza.com/class/l7r3xzcrn7041g)
-* Class Repository: [https://github.com/hwxi/CS525-2022-Fall](https://github.com/hwxi/CS525-2022-Fall)
-
-### [Schedule](./CS525/2022F/schedule.txt)
+* Class Repository: [https://github.com/hwxi/CS320-2023-Sprn](https://github.com/hwxi/CS320-2023-Sprn)
 
 ### Grading Policy
 
@@ -47,36 +50,26 @@ to do, please seek clarification on the Piazza page.
 If you feel that your work is not fairly graded, please raise your
 concern to me ASAP. If you don't, then I could not tell.
 
-1. You receive 10% bonus points for submitting each assignment on time.
+1.  You receive 10% bonus points for submitting each assignment 24
+hours earlier than the due time.
 
 2. For a programming task, your implementation must compile and pass a
 given test in order for you to receive *any* credit.
-
-3. You can fix bugs in your code and submit for re-grading. There is
-an automatic 20% deduction of credit for each re-grading.  For
-instance, if you earned 100 points on a re-grading, you would actually
-be credited with 80 points.  A request needs to be explicitly made if
-you want something to be re-graded for the 2nd time.
 
 ### Prerequisites
 
 Familiarity with programming in general:
 
-* CS320 (Concepts of Programming Languages) or Equivalents
+* CS111 & CS112 (Introduction to Programming in Python and Java)
 
-### Reference Books
-  
-1. Modern Compiler Design and Implementation by Andrew Appel.
-2. [Introduction to Programming in ATS](http://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/HTMLTOC/book1.html) by Hongwei Xi.
-3. [A Crash into Functional Programming via ATS](http://ats-lang.sourceforge.net/DOCUMENT/ATS2FUNCRASH/HTML/HTMLTOC/book1.html) by Hongwei Xi.
+### Textbooks
+
+*Programming in SML* by Robert Harper, which is available [here](http://www.cs.cmu.edu/~rwh/isml/book.pdf)
+*Introduction to Computation and Programming Using Python* (3rd edition) by John V. Guttag
 
 ### Programming Languages
 
-* [ATS](http://www.ats-lang.org) (this
-  [mode](http://ats-lang.sourceforge.net/DOCUMENT/ATS-Postiats/utils/emacs/ats2-mode.el)
-  may be helpful if you use emacs to edit ATS source code)
-
-* Or any other programming languages you are comfortable with.
+* Standard ML and Python
 
 ### Class Calendar
 

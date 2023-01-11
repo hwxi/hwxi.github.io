@@ -39,8 +39,8 @@ can be a great deal of fun if you do it the right way!
 
 * Classroom: HAR 105
 * ClassTime: Wed&Thu: 3:30 -- 4:45pm
-* Piazza Link: [For discussions](https://piazza.com/class/l7r3xzcrn7041g)
-* Class Repository: [https://github.com/hwxi/CS320-2023-Sprn](https://github.com/hwxi/CS320-2023-Sprn)
+* Piazza Link: [For discussions](https://piazza.com/class/lcs4abvjqr620t)
+* Class Repository: [https://github.com/hwxi/CS320-2023-Spring](https://github.com/hwxi/CS320-2023-Spring)
 
 ### Grading Policy
 
@@ -50,7 +50,7 @@ to do, please seek clarification on the Piazza page.
 If you feel that your work is not fairly graded, please raise your
 concern to me ASAP. If you don't, then I could not tell.
 
-1.  You receive 10% bonus points for submitting each assignment 24
+1. You receive 10% bonus points for submitting each assignment 24
 hours earlier than the due time.
 
 2. For a programming task, your implementation must compile and pass a
@@ -64,7 +64,8 @@ Familiarity with programming in general:
 
 ### Textbooks
 
-1. *Programming in SML* by Robert Harper, which is available [here](http://www.cs.cmu.edu/~rwh/isml/book.pdf)
+1. *Programming in SML* by Robert Harper, which is available [on-line](http://www.cs.cmu.edu/~rwh/isml/book.pdf).
+
 2. *Introduction to Computation and Programming Using Python* (3rd edition) by John V. Guttag
 
 ### Programming Languages

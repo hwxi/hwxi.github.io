@@ -37,7 +37,7 @@ can be a great deal of fun if you do it the right way!
 
 ### Logistics
 
-* Classroom: HAR 105
+* Classroom: CGS 511
 * ClassTime: Wed&Thu: 3:30 -- 4:45pm
 * Piazza Link: [For discussions](https://piazza.com/class/lcs4abvjqr620t)
 * Class Repository: [https://github.com/hwxi/CS320-2023-Spring](https://github.com/hwxi/CS320-2023-Spring)

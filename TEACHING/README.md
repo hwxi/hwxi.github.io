@@ -6,9 +6,9 @@ I primarily teach the following courses at BUCS:
 * Concepts of Programming Languages (CS320)
 * Principles of Programming Languages (CS520)
 
-## Spring, 2023
+## Summer I, 2023
 
-I am scheduled to teach BU CAS CS320 in Spring, 2023.
+I am scheduled to teach BU CAS CS320 in Summer I, 2023.
 
 ### Title
 
@@ -33,14 +33,14 @@ popular language in the world.
 Ultimately, we would like to make a convincing argument that programming
 can be a great deal of fun if you do it the right way!
 
-### [Syllabus](./CS320/2023Sprn/admin/syllabus.pdf)
+### [Syllabus](./CS320/2023Sum1/admin/syllabus.pdf)
 
 ### Logistics
 
-* Classroom: CGS 511
-* ClassTime: Tue&Thu: 3:30 -- 4:45pm
+* Classroom: SOC B63
+* ClassTime: Mon&Tue&Wed: 1:00 -- 3:30pm
 * Piazza Link: [For discussions](https://piazza.com/class/lcs4abvjqr620t)
-* Class Repository: [https://github.com/hwxi/CS320-2023-Spring](https://github.com/hwxi/CS320-2023-Spring)
+* Class Repository: [https://github.com/hwxi/CS320-2023-Sum1](https://github.com/hwxi/CS320-2023-Sum1)
 
 ### Grading Policy
 
@@ -50,10 +50,7 @@ to do, please seek clarification on the Piazza page.
 If you feel that your work is not fairly graded, please raise your
 concern to me ASAP. If you don't, then I could not tell.
 
-1. You receive 10% bonus points for submitting each assignment 24
-hours earlier than the due time.
-
-2. For a programming task, your implementation must compile and pass a
+1. For a programming task, your implementation must compile and pass a
 given test in order for you to receive *any* credit.
 
 ### Prerequisites

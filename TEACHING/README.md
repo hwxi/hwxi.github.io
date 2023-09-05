@@ -6,9 +6,9 @@ I primarily teach the following courses at BUCS:
 * Concepts of Programming Languages (CS320)
 * Principles of Programming Languages (CS520)
 
-## Summer I, 2023
+## Fall, 2023
 
-I am scheduled to teach BU CAS CS320 in Summer I, 2023.
+I am scheduled to teach BU CAS CS320 in Fall, 2023.
 
 ### Title
 
@@ -23,24 +23,24 @@ subject to have a good feel for the elements of style and aesthetics of
 programming and a good command of the major techniques for controlling
 complexity in programming.
 
-SML is a functional programming language that makes pervasive use of
-types in capturing programming invariants. We will be starting with
-SML and then making a gradual transition from SML to Python so as to
-demonstrate concretely that the concepts learned in the context of SML
-can be readily applied in the context of Python, one of the most
-popular language in the world.
+OCaml is a functional programming language that makes pervasive use of
+types in capturing programming invariants. We will be primarily doing
+programming in OCaml while making ocassionally use of Python so as to
+demonstrate concretely that the concepts learned in OCaml can be
+readily applied in Python, one of the most popular language in the
+world.
 
 Ultimately, we would like to make a convincing argument that programming
 can be a great deal of fun if you do it the right way!
 
-### [Syllabus](./CS320/2023Sum1/admin/syllabus.pdf)
+### [Syllabus](./CS320/2023Fall/admin/syllabus.pdf)
 
 ### Logistics
 
 * Classroom: SOC B63
 * ClassTime: Mon&Tue&Wed: 1:00 -- 3:30pm
 * Piazza Link: [For discussions](https://piazza.com/class/lcs4abvjqr620t)
-* Class Repository: [https://github.com/hwxi/CS320-2023-Sum1](https://github.com/hwxi/CS320-2023-Sum1)
+* Class Repository: [https://github.com/hwxi/CS320-2023-Fall](https://github.com/hwxi/CS320-2023-Fall)
 
 ### Grading Policy
 
@@ -61,19 +61,17 @@ Familiarity with programming in general:
 
 ### Textbooks
 
-1. *Programming in SML* by Robert Harper, which is available [on-line](http://www.cs.cmu.edu/~rwh/isml/book.pdf).
-
-2. *Introduction to Computation and Programming Using Python* (3rd edition) by John V. Guttag
+[OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)
 
 ### Programming Languages
 
-* Standard ML and Python
+* OCaml and Python
 
 ### Class Calendar
 
 ## Courses Taught Previously
 
-### Year 2023: [CS320(Sprn)](./CS320/2023Sprn/.)
+### Year 2023: [CS320(Sprn)](./CS320/2023Sprn/.) and [CS320(Fall)](./CS320/2023Fall/.)
 ### Year 2022: [CS525(Fall)](./CS525/2022Fall/.)
 ### Year 2021: [CS520(Sprn)](./CS520/2021Sprn/.) and [CS525(Fall)](./CS525/2021Fall/.)
 ### Year 2020: [CS520(Sprn)](./CS520/2020Sprn/.) and [CS525(Fall)](./CS525/2020Fall/.)

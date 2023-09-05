@@ -38,8 +38,8 @@ can be a great deal of fun if you do it the right way!
 ### Logistics
 
 * Classroom: SOC B63
-* ClassTime: Mon&Tue&Wed: 1:00 -- 3:30pm
-* Piazza Link: [For discussions](https://piazza.com/class/lcs4abvjqr620t)
+* ClassTime: Tue&Thu: 11:00am-12:15pm; 12:30pm--01:45pm
+* Piazza Link: [For discussions](https://piazza.com/bu/fall2023/bucascs320)
 * Class Repository: [https://github.com/hwxi/CS320-2023-Fall](https://github.com/hwxi/CS320-2023-Fall)
 
 ### Grading Policy

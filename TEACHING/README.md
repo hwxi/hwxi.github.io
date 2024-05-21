@@ -6,9 +6,9 @@ I primarily teach the following courses at BUCS:
 * Concepts of Programming Languages (CS320)
 * Principles of Programming Languages (CS520)
 
-## Fall, 2023
+## Summer I, 2024
 
-I am scheduled to teach BU CAS CS320 in Fall, 2023.
+I am scheduled to teach BU CAS CS320 in Summer I, 2024.
 
 ### Title
 
@@ -23,24 +23,24 @@ subject to have a good feel for the elements of style and aesthetics of
 programming and a good command of the major techniques for controlling
 complexity in programming.
 
-OCaml is a functional programming language that makes pervasive use of
-types in capturing programming invariants. We will be primarily doing
-programming in OCaml while making ocassionally use of Python so as to
-demonstrate concretely that the concepts learned in OCaml can be
-readily applied in Python, one of the most popular language in the
-world.
+SML is a functional programming language that makes pervasive use of
+types in capturing programming invariants. We will be starting with
+SML and then making a gradual transition from SML to Python so as to
+demonstrate concretely that the concepts learned in the context of SML
+can be readily applied in the context of Python, one of the most
+popular language in the world.
 
 Ultimately, we would like to make a convincing argument that programming
 can be a great deal of fun if you do it the right way!
 
-### [Syllabus](./CS320/2023Fall/admin/syllabus.pdf)
+### [Syllabus](./CS320/2024Sum1/admin/syllabus.pdf)
 
 ### Logistics
 
-* Classroom: SOC B63
-* ClassTime: Tue&Thu: 11:00am-12:15pm; 12:30pm--01:45pm
-* Piazza Link: [For discussions](https://piazza.com/bu/fall2023/bucascs320)
-* Class Repository: [https://github.com/hwxi/CS320-2023-Fall](https://github.com/hwxi/CS320-2023-Fall)
+* Classroom: SHA 202 (Lab: MCS B33)
+* ClassTime: Mon&Tue&WedThu: 1:00-3:30pm (Lab: Mon&Wed: 3:30-4:30pm)
+* Piazza Link: [For discussions](https://piazza.com/bu/summer2024/bucascs320)
+* Class Repository: [https://github.com/hwxi/CS320-2024-Fall](https://github.com/hwxi/CS320-2024-Fall)
 
 ### Grading Policy
 

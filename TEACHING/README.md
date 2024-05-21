@@ -61,11 +61,11 @@ Familiarity with programming in general:
 
 ### Textbooks
 
-[OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)
+[Programming in Standard ML](http://www.cs.cmu.edu/~rwh/isml/book.pdf)
 
 ### Programming Languages
 
-* OCaml and Python
+* Standard ML and Python
 
 ### Class Calendar
 

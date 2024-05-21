@@ -1,14 +1,6 @@
-# Teaching
+## Spring, 2023
 
-I primarily teach the following courses at BUCS:
-
-* Compiler Design and Implementation (CS525)
-* Concepts of Programming Languages (CS320)
-* Principles of Programming Languages (CS520)
-
-## Summer I, 2024
-
-I am scheduled to teach BU CAS CS320 in Summer I, 2024.
+I am scheduled to teach BU CAS CS320 in Spring, 2023.
 
 ### Title
 
@@ -33,14 +25,14 @@ popular language in the world.
 Ultimately, we would like to make a convincing argument that programming
 can be a great deal of fun if you do it the right way!
 
-### [Syllabus](./CS320/2024Sum1/admin/syllabus.pdf)
+### [Syllabus](./admin/syllabus.pdf)
 
 ### Logistics
 
-* Classroom: SHA 202 (Lab: MCS B33)
-* ClassTime: Mon&Tue&Wed: 1:00-3:30pm (Lab: Mon&Wed: 3:30-4:30pm)
-* Piazza Link: [For discussions](https://piazza.com/bu/summer2024/bucascs320)
-* Class Repository: [https://github.com/hwxi/CS320-2024-Fall](https://github.com/hwxi/CS320-2024-Fall)
+* Classroom: CGS 511
+* ClassTime: Tue&Thu: 3:30-4:45pm
+* Piazza Link: [For discussions](https://piazza.com/bu/spring2023/bucascs320)
+* Class Repository: [https://github.com/hwxi/CS320-2023-Sprn](https://github.com/hwxi/CS320-2023-Sprn)
 
 ### Grading Policy
 
@@ -71,7 +63,6 @@ Familiarity with programming in general:
 
 ## Courses Taught Previously
 
-### Year 2023: [CS320(Sprn)](./CS320/2023Sprn/.) and [CS320(Fall)](./CS320/2023Fall/.)
 ### Year 2022: [CS525(Fall)](./CS525/2022Fall/.)
 ### Year 2021: [CS520(Sprn)](./CS520/2021Sprn/.) and [CS525(Fall)](./CS525/2021Fall/.)
 ### Year 2020: [CS520(Sprn)](./CS520/2020Sprn/.) and [CS525(Fall)](./CS525/2020Fall/.)

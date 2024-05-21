@@ -40,7 +40,7 @@ can be a great deal of fun if you do it the right way!
 * Classroom: SHA 202 (Lab: MCS B33)
 * ClassTime: Mon&Tue&Wed: 1:00-3:30pm (Lab: Mon&Wed: 3:30-4:30pm)
 * Piazza Link: [For discussions](https://piazza.com/bu/summer2024/bucascs320)
-* Class Repository: [https://github.com/hwxi/CS320-2024-Fall](https://github.com/hwxi/CS320-2024-Fall)
+* Class Repository: [https://github.com/hwxi/CS320-2024-Sum1](https://github.com/hwxi/CS320-2024-Sum1)
 
 ### Grading Policy
 

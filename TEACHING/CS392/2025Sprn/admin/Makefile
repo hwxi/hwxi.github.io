@@ -7,10 +7,15 @@
 ######
 all::
 ######
+all:: syllabus
+######
 all:: syllabus-old
 ######
 all:: faster-paced
 ######
+
+syllabus: ; \
+pdflatex syllabus.tex
 
 syllabus-old: ; \
 pdflatex syllabus-old.tex
@@ -21,6 +26,8 @@ pdflatex faster-paced.tex
 ######
 
 clean:: ; rm -f *~
+clean:: ; rm -f syllabus.aux
+clean:: ; rm -f syllabus.log
 clean:: ; rm -f syllabus-old.aux
 clean:: ; rm -f syllabus-old.log
 clean:: ; rm -f faster-paced.aux

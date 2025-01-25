@@ -19,9 +19,10 @@ Please read the [slides](./CS392/2025Sprn/admin/faster-paced.pdf) for more infor
 * Please take it if you are interested. We will send out invitations
   based on the quality of the submitted solutions to this test.
 * Note that the class time is not yet fixed. Here are some possibilities:
-** Tuesday/Thursday 09:30am-10:45am
-** Tuesday/Thursday 11:00am-12:15am
-** Tuesday/Thursday 05:00pm-06:15pm
+  * Tuesday/Thursday 09:30am-10:45am
+  * Tuesday/Thursday 11:00am-12:15am
+  * Tuesday/Thursday 05:00pm-06:15pm
+  * Some other times in case nono of the above work out
 
 ### Title
 
@@ -29,8 +30,9 @@ Please read the [slides](./CS392/2025Sprn/admin/faster-paced.pdf) for more infor
 
 ### Overview
 
+### [Syllabus](./CS392/2025Sprn/admin/syllabus.pdf)
 
-### [Syllabus](./CS320/2024Sum1/admin/syllabus.pdf)
+(For now, please see an old syllabus used during Spring, 2010)
 
 ### Logistics
 

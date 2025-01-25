@@ -10,6 +10,8 @@ I primarily teach the following courses at BUCS:
 ## Spring, 2025
 
 I am scheduled to teach BU CAS CS392 in Spring, 2025.
+Note that this class is designed to be a faster-paced version of CS112.
+Please read the [slides](./CS392/admin/faster-paced.pdf) for more information.
 
 ### Title
 

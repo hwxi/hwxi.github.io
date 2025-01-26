@@ -1,0 +1,36 @@
+Hi, there,
+
+This semester, the CS department plans to offer a version of CS112
+that moves at a faster pace so that more course content can be
+covered.  Also, the version can afford more focus on teaching
+programming skills (besides data structures) in Java as well as in
+general. For more information, please visit the following link:
+
+https://hwxi.github.io/TEACHING/
+
+If you are interested, please REPLY to this message directly. In your
+reply, please describe BRIEFLY your past programming experience.
+
+1. Please state your experience with Java if you have any
+2. Please state your experinece with Python if you have any
+
+There will be a short placement test given to you based on your reply.
+  
+########################################################################
+
+You may want to take it if
+1. you enjoy programming in general, and/or
+2. you welcome more programming challenges, and/or
+3. you are already familiar with basic programming
+   3.1. you are familiar with Java, and/or
+   3.2. you are familiar with another language like Python, and/or
+   3.3. you are confidant in your ability to pick up Java on your own.
+
+The class for this faster-paced version is small. At most one TA
+is expected.
+1. As it is being taught for the first time, it will be more subject
+   to change. In short, it is somewhat "experimental".
+2. Grading tends to be interactive in the sense that you may be given
+   chances to fix your programming errors.
+
+########################################################################

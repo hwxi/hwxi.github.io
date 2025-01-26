@@ -22,7 +22,7 @@ Please read the [slides](./CS392/2025Sprn/admin/faster-paced.pdf) for more infor
   * Tuesday/Thursday 09:30am-10:45am
   * Tuesday/Thursday 11:00am-12:15am
   * Tuesday/Thursday 05:00pm-06:15pm
-  * Some other times in case nono of the above work out
+  * Some other times in case none of the above work out
 
 ### Title
 
@@ -79,10 +79,10 @@ First and foremost, if you are not sure about what is being asked
 to do, please seek clarification on the Piazza page.
 
 If you feel that your work is not fairly graded, please raise your
-concern to me ASAP. If you don't, then I could not tell.
-
-1. For a programming task, your implementation must compile and pass a
-given test in order for you to receive credit.
+concern to me ASAP. If you don't, then I could not tell. In general,
+grading tends to be interactive in the sense that you may receive
+feedback on your code and then be allowed to fix bugs if there are
+any.
 
 ### Prerequisites
 

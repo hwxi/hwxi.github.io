@@ -155,7 +155,7 @@ language with a type system rooted in a recently developed framework
 Applied Type System, and a novel and desirable feature in ATS lies in
 its support for safe programming with pointers through a novel notion
 of stateful views. In particular, even pointer arithmetic is allowed in
-ATS and guaranteed to be safe by the type system of ATS. In thispaper,
+ATS and guaranteed to be safe by the type system of ATS. In this paper,
 we give an overview of this feature in ATS, presenting some interesting
 examples based on a prototype implementation of ATS to demonstrate the
 practicality of safe programming with pointer through stateful views.

@@ -26,8 +26,9 @@ I joined PacSoft in August 1998 after finishing my PhD thesis titled
 under the supervision of Prof. [Frank Pfenning](http://www.cs.cmu.edu/~fp).
 
 In 1995, I made a decision on pursuing my PhD study in the area of
-programming language design and implementation. At that time, I was
-working on the TPS (Theorem Proving System) project, focussing on
+programming language design and implementation. I felt so lucky that
+Prof. Pfenning took me as one of his PhD students.  At that time, I
+was working on the TPS (Theorem Proving System) project, focussing on
 applying the so-called _mating_ method to automated higher-order
 theorem proving, and Prof. Peter Andrews, the inventor of the mating
 method, supervised my research.

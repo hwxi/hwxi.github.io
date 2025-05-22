@@ -14,15 +14,26 @@ in Summer I, 2025.
 
 ## Courses Taught Previously
 
-### Year 2024: [CS320(Sum1)](./CS320/2024Sum1/.)
-### Year 2023: [CS320(Sum1)](./CS320/2023Sum1/.)
-### Year 2023: [CS320(Sprn)](./CS320/2023Sprn/.)
-### Year 2023: [CS320(Fall)](./CS320/2023Fall/.)
-### Year 2022: [CS525(Fall)](./CS525/2022Fall/.)
-### Year 2022: (On Sabbatical Leave)
-### Year 2021: [CS525(Fall)](./CS525/2021Fall/.)
-### Year 2021: [CS520(Sprn)](./CS520/2021Sprn/.)
-### Year 2020: [CS525(Fall)](./CS525/2020Fall/.)
-### Year 2020: [CS520(Sprn)](./CS520/2020Sprn/.)
-### Year 2019: [CS525(Fall)](./CS525/2019Fall/.)
-### Year 2019: [CS520(Sprn)](./CS520/2019Sprn/.)
+### Year 2024:
+* Sum1: [CS320(Sum1)](./CS320/2024Sum1/.)
+
+### Year 2023:
+* Sum1: [CS320(Sum1)](./CS320/2023Sum1/.)
+* Fall: [CS320(Fall)](./CS320/2023Fall/.)
+* Spring: [CS320(Sprn)](./CS320/2023Sprn/.)
+
+### Year 2022:
+* Fall: [CS525(Fall)](./CS525/2022Fall/.)
+* Spring: On sabbatical leave
+
+### Year 2021:
+* Fall: [CS525(Fall)](./CS525/2021Fall/.)
+* Spring: [CS520(Sprn)](./CS520/2021Sprn/.)
+
+### Year 2020:
+* Fall: [CS525(Fall)](./CS525/2020Fall/.)
+* Spring: [CS520(Sprn)](./CS520/2020Sprn/.)
+
+### Year 2019:
+* Fall: [CS525(Fall)](./CS525/2019Fall/.)
+* Spring: [CS520(Sprn)](./CS520/2019Sprn/.)

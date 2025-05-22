@@ -25,7 +25,7 @@ I am scheduled to teach BU CAS CS391X1 in Summer I, 2025.
 * Classroom: CDS 263
 * ClassTime: Mon&Tue&Wed: 1:00-3:30pm
 * Piazza Link: [For discussions](https://piazza.com/bu/summer2025/bucascs391x1/home)
-* Class Repository: [https://github.com/hwxi/CS391-2025-Sum1](https://github.com/hwxi/CS391-2025-Sum1)
+* Class Repository: [https://github.com/hwxi/CS391-2025-Summer](https://github.com/hwxi/CS391-2025-Summer)
 
 ### Grading Policy
 
@@ -53,17 +53,3 @@ None is required.
 * Python 3
 
 ### Class Calendar
-
-## Courses Taught Previously
-
-### Year 2023: [CS320(Sum1)](./../../CS320/2023Sum1/.)
-### Year 2023: [CS320(Sprn)](./../../CS320/2023Sprn/.)
-### Year 2023: [CS320(Fall)](./../../CS320/2023Fall/.)
-### Year 2022: [CS525(Fall)](./../../CS525/2022Fall/.)
-### Year 2022: (On Sabbatical Leave)
-### Year 2021: [CS525(Fall)](./../../CS525/2021Fall/.)
-### Year 2021: [CS520(Sprn)](./../../CS520/2021Sprn/.)
-### Year 2020: [CS525(Fall)](./../../CS525/2020Fall/.)
-### Year 2020: [CS520(Sprn)](./../../CS520/2020Sprn/.)
-### Year 2019: [CS525(Fall)](./../../CS525/2019Fall/.)
-### Year 2019: [CS520(Sprn)](./../../CS520/2019Sprn/.)

@@ -9,7 +9,7 @@ I primarily teach the following courses at BUCS:
 
 ## Summer, 2025
 
-I am scheduled to teach BU CAS [CS391X1](./CS391/2025Sum1/.)
+I am scheduled to teach [BU CAS CS391X1](./CS391/2025Sum1/.)
 in Summer I, 2025.
 
 ## Courses Taught Previously
@@ -18,13 +18,13 @@ in Summer I, 2025.
 * Sum1: [CS320(Sum1)](./CS320/2024Sum1/.)
 
 ### Year 2023:
-* Sum1: [CS320(Sum1)](./CS320/2023Sum1/.)
 * Fall: [CS320(Fall)](./CS320/2023Fall/.)
+* Sum1: [CS320(Sum1)](./CS320/2023Sum1/.)
 * Spring: [CS320(Sprn)](./CS320/2023Sprn/.)
 
 ### Year 2022:
 * Fall: [CS525(Fall)](./CS525/2022Fall/.)
-* Spring: On sabbatical leave
+* Spring: On leave
 
 ### Year 2021:
 * Fall: [CS525(Fall)](./CS525/2021Fall/.)

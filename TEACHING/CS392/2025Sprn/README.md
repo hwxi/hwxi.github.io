@@ -64,8 +64,6 @@ involves:
 
 ### [Syllabus](./CS392/2025Sprn/admin/syllabus.pdf)
 
-(For now, please see an old syllabus used during Spring, 2010)
-
 ### Logistics
 
 * Classroom: CDS 801

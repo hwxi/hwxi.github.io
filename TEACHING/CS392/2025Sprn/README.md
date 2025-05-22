@@ -2,7 +2,7 @@
 
 I primarily teach the following courses at BUCS:
 
-* Introduction to Programming (DS) (CS112)
+* Introduction to Programming II (CS112)
 * Concepts of Programming Languages (CS320)
 * Compiler Design and Implementation (CS525)
 * Principles of Programming Languages (CS520)
@@ -26,7 +26,7 @@ Please read the [slides](./CS392/2025Sprn/admin/faster-paced.pdf) for more infor
 
 ### Title
 
-* Introduction to Programming (Data Structures)
+* Introduction to Programming II (Data Structures)
 
 ### Overview
 

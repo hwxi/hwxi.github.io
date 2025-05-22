@@ -1,6 +1,10 @@
 ## Spring, 2025
 
-I am scheduled to teach BU CAS CS392 in Spring, 2025.
+I am scheduled to teach BU CAS CS392X1 in Spring, 2025.
+
+HX-2025-05-22: This version of CS392X1 was cancelled. Instead, I
+taught a faster-faced version of CS112 (Introduction to CS II -- Data
+Structures).
 
 ### Title
 

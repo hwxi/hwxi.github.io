@@ -25,16 +25,16 @@ programming tasks, and an awareness of various design patterns that recur
 frequently in advanced programming;
 * Critical thinking about programs and the programming process, which
 involves:
-- Thinking about the best way to plan out the design using object-oriented
+  * Thinking about the best way to plan out the design using object-oriented
 design and appropriate features of Java;
-- Methodical and efficient development of the implementation using step-wise
+  * Methodical and efficient development of the implementation using step-wise
 refinement and incremental testing and debugging (using appropriate
 debugging tools);
-- Being able to convince yourself of the correctness of the implementation by
+  * Being able to convince yourself of the correctness of the implementation by
 mathematical reasoning;
-- Analyzing the running time (efficiency) of programs by inspection and
+  * Analyzing the running time (efficiency) of programs by inspection and
 mathematical reasoning; and
-- Evaluating the efficiency and correctness of programs empirically, by using
+  * Evaluating the efficiency and correctness of programs empirically, by using
 various tools in properly designed experiments.
 
 ### [Syllabus](./syllabus.pdf)

@@ -1,12 +1,3 @@
-# Teaching
-
-I primarily teach the following courses at BUCS:
-
-* Introduction to Programming (DS) (CS112)
-* Concepts of Programming Languages (CS320)
-* Compiler Design and Implementation (CS525)
-* Principles of Programming Languages (CS520)
-
 ## Summer I, 2025
 
 I am scheduled to teach BU CAS CS391X1 in Summer I, 2025.
@@ -17,8 +8,7 @@ I am scheduled to teach BU CAS CS391X1 in Summer I, 2025.
 
 ### Overview
 
-
-### [Syllabus](./CS391/2025Sum1/admin/syllabus.pdf)
+### [Syllabus](./admin/syllabus.pdf)
 
 ### Logistics
 

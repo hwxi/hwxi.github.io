@@ -94,6 +94,35 @@ imperative programming with dependent types.
 
 ### Link(s): [pdf](./../MYDATA/Xanadu-lics00.pdf)
 
+## Dependent Types for Program Termination Verification
+
+### Author(s): Hongwei Xi
+
+### Abstract
+
+Program termination verification is a challenging research subject of
+significant practical importance. While there is already a rich body
+of literature on this subject, it is still undeniably a difficult task
+to design a termination checker for a realistic programming language
+that supports general recursion. In this paper, we present an approach
+to program termination verification that makes use of a form of
+dependent types developed in Dependent ML (DML), demonstrating a novel
+application of such dependent types to establishing a liveness
+property. We design a type system that enables the programmer to
+supply metrics for verifying program termination and prove that every
+well-typed program in this type system is terminating. We also provide
+realistic examples, which are all verified in a prototype
+implementation, to support the effectiveness of our approach to
+program termination verification as well as its unobtrusiveness to
+programming. The main contribution of the paper lies in the design of
+an approach to program termination verification that smoothly combines
+types with metrics, yielding a type system capable of guaranteeing
+program termination that supports a general form of recursion
+(including mutual recursion), higher-order functions, algebraic
+datatypes, and polymorphism.
+
+### Link(s): [pdf](./../MYDATA/DTPTV-lics01.pdf)
+
 ## Combining Programming with Theorem-Proving
 
 ### Author(s): Chiyan Chen and Hongwei Xi

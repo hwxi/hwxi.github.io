@@ -1,6 +1,6 @@
-## Spring, 2023
+## Summer I, 2023
 
-I am scheduled to teach BU CAS CS320 in Spring, 2023.
+I am scheduled to teach BU CAS CS320 in Summer I, 2023.
 
 ### Title
 
@@ -29,10 +29,10 @@ can be a great deal of fun if you do it the right way!
 
 ### Logistics
 
-* Classroom: CGS 511
-* ClassTime: Tue&Thu: 3:30-4:45pm
-* Piazza Link: [For discussions](https://piazza.com/bu/spring2023/bucascs320)
-* Class Repository: [https://github.com/hwxi/CS320-2023-Sprn](https://github.com/hwxi/CS320-2023-Sprn)
+* Classroom: SOC B63 -> KCB 102
+* ClassTime: Mon&Tue&Wed: 1:00-3:30pm
+* Piazza Link: [For discussions](https://piazza.com/bu/summer2023/bucascs320/home)
+* Class Repository: [https://github.com/hwxi/CS320-2023-Sum1](https://github.com/hwxi/CS320-2023-Sum1)
 
 ### Grading Policy
 

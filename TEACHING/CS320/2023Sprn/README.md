@@ -9,18 +9,18 @@ I am scheduled to teach BU CAS CS320 in Spring, 2023.
 ### Overview
 
 Concepts of Programming Languages (CPL) is a course that introduces
-students to some fundamental concepts in programming language design and
-implementation. The primary goal is to allow students who complete this
-subject to have a good feel for the elements of style and aesthetics of
-programming and a good command of the major techniques for controlling
-complexity in programming.
+students to some fundamental concepts in programming language design
+and implementation. The primary goal is to allow students who complete
+this subject to have a good feel for the elements of style and
+aesthetics of programming and a good command of certain common
+techniques for controlling complexity in programming.
 
 SML is a functional programming language that makes pervasive use of
 types in capturing programming invariants. We will be starting with
 SML and then making a gradual transition from SML to Python so as to
 demonstrate concretely that the concepts learned in the context of SML
 can be readily applied in the context of Python, one of the most
-popular language in the world.
+popular programming languages in the world.
 
 Ultimately, we would like to make a convincing argument that programming
 can be a great deal of fun if you do it the right way!

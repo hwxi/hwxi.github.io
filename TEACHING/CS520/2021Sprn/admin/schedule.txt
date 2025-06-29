@@ -1,8 +1,8 @@
-######
+#######################################################################
 
 Schedule for CS520, Spring, 2021
 
-######
+#######################################################################
 
 01-26(Tue):
 
@@ -22,4 +22,4 @@ programming).
 Recursion is ubiquitous in programming. Loops in imperative programming
 corresponds to tail-recursive functions in functional programming.
 
-###### end of [schedule.txt] ######
+######################## end of [schedule.txt] ########################

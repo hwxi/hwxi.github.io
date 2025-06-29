@@ -16,7 +16,7 @@ mathematical formalism in both describing and analyzing programming
 languages and programs. Programming for this course is to be done in
 a research language (ATS) and the amount of programming is light overall.
 
-### [Syllabus](./syllabus.pdf)
+### [Syllabus](./admin/syllabus.pdf)
 
 ### Logistics
 
@@ -27,7 +27,7 @@ a research language (ATS) and the amount of programming is light overall.
 * Piazza Link: [For discussions](https://piazza.com/bu/spring2021/bucascs520/home)
 * Class Repository: [https://github.com/hwxi/CS520-2021-Spring](https://github.com/hwxi/CS520-2021-Spring)
 
-### [Schedule](./schedule.txt)
+### [Schedule](./admin/schedule.txt)
 
 ### Grading Policy
 

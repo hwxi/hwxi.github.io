@@ -57,5 +57,3 @@ Familiarity with programming in general:
 * Python and Something ML-like
 
 ### Class Calendar
-
-## Courses Taught Previously

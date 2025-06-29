@@ -14,6 +14,10 @@ in Summer I, 2025.
 
 ## Courses Taught Previously
 
+### Year 2025:
+* Sum1: [CS391(Sum1)](./CS391/2025Sum1/.)
+* Spring: [CS392(Sprn)](./CS392/2025Sprn/.)
+
 ### Year 2024:
 * Sum1: [CS320(Sum1)](./CS320/2024Sum1/.)
 

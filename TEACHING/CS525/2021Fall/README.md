@@ -10,7 +10,7 @@ I am scheduled to teach BU CAS CS525 in Fall, 2021.
 
 Compiler Design and Implementation is a course that introduces
 students to some basics in the design and implementation of
-compilers. In this course, we are to teach the theory behind various
+compilers. In this course, I plan to teach the theory behind various
 components of a compiler as well as the programming techniques
 involved to put the theory into practice. The chosen programming
 language for implementation is ATS. However, you are free to choose

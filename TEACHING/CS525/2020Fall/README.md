@@ -1,41 +1,54 @@
-# CS525-2020-Fall
-For teaching BU CAS CS 525: Compiler Design and Implementation.
+## Fall, 2020
 
-## Mirroring this repository
+I am scheduled to teach BU CAS CS525 in Fall, 2020.
 
-Please create a private repository that mirrors this one and update
-frequently.
+### Title
 
-Step 1:
+* Compiler Design and Implementation
 
-Please clone the class repository:
+### Overview
 
-```
-git clone https://github.com/hwxi/CS525-2020-Fall
-```
+Compiler Design and Implementation is a course that introduces
+students to some basics in the design and implementation of
+compilers. In this course, I plan to teach the theory behind various
+components of a compiler as well as the programming techniques
+involved to put the theory into practice. The chosen programming
+language for implementation is ATS. However, you are free to choose
+another programming language (preferably, one of functional style) if
+you so wish.
+  
+### [Syllabus](./admin/syllabus.pdf)
 
-Step 2:
+### Logistics
 
-Please create a repository of your own.
-For instance, the following one is created
-for my own use:
+* Please see the syllabus
 
-https://github.com/hwxi/CS525-2020-Fall-hwxi
+### Grading Policy
 
-Then please mirror-push the class repo into your own repo:
+First and foremost, if you are not sure about what is being asked
+to do, please seek clarification on the Piazza page.
 
-```
-cd CS525-2020-Fall
-git push --mirror https://github.com/hwxi/CS525-2020-Fall-hwxi
-git clone https://github.com/hwxi/CS525-2020-Fall-hwxi
-git remote add upstream https://hwxi@github.com/hwxi/CS525-2020-Fall.git
-```
+If you feel that your work is not fairly graded, please raise your
+concern to me ASAP. If you don't, then I could not tell.
 
-Step 3:
+### Prerequisites
 
-Please remember to sync with the class repo frequently:
+Familiarity with programming in general:
 
-```
-git fetch upstream
-git merge upstream/master master
-```
+* CS320 (Concepts of Programming Languages) or Equivalents
+
+### Reference Books
+  
+1. Modern Compiler Design and Implementation by Andrew Appel.
+2. [Introduction to Programming in ATS](http://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/HTMLTOC/book1.html) by Hongwei Xi.
+3. [A Crash into Functional Programming via ATS](http://ats-lang.sourceforge.net/DOCUMENT/ATS2FUNCRASH/HTML/HTMLTOC/book1.html) by Hongwei Xi.
+
+### Programming Languages
+
+* [ATS](http://www.ats-lang.org) (this
+  [mode](http://ats-lang.sourceforge.net/DOCUMENT/ATS-Postiats/utils/emacs/ats2-mode.el)
+  may be helpful if you use emacs to edit ATS source code)
+
+* Or any other programming languages you are comfortable with.
+
+### Class Calendar

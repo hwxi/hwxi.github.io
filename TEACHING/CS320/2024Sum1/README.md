@@ -70,9 +70,3 @@ Familiarity with programming in general:
 ### Class Calendar
 
 ## Courses Taught Previously
-
-### Year 2023: [CS320(Sprn)](./CS320/2023Sprn/.) and [CS320(Fall)](./CS320/2023Fall/.)
-### Year 2022: [CS525(Fall)](./CS525/2022Fall/.)
-### Year 2021: [CS520(Sprn)](./CS520/2021Sprn/.) and [CS525(Fall)](./CS525/2021Fall/.)
-### Year 2020: [CS520(Sprn)](./CS520/2020Sprn/.) and [CS525(Fall)](./CS525/2020Fall/.)
-### Year 2019: [CS520(Sprn)](./CS520/2019Sprn/.) and [CS525(Fall)](./CS525/2019Fall/.)

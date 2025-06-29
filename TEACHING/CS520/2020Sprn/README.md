@@ -16,9 +16,9 @@ mathematical formalism in both describing and analyzing programming
 languages and programs. Programming for this course is to be done in
 a research language (ATS) and the amount of programming is light overall.
 
-### [Syllabus](./syllabus.pdf)
+### [Syllabus](./admin/syllabus.pdf)
 
-### [Schedule](./schedule.txt)
+### [Schedule](./admin/schedule.txt)
 
 ### Grading Policy
 

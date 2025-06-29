@@ -7,10 +7,9 @@ I primarily teach the following courses at BUCS:
 * Compiler Design and Implementation (CS525)
 * Principles of Programming Languages (CS520)
 
-## Summer, 2025
+## Fall, 2025
 
-I am scheduled to teach [BU CAS CS391X1](./CS391/2025Sum1/.)
-in Summer I, 2025.
+HX-2025-06-29: Yet to be announced
 
 ## Courses Taught Previously
 

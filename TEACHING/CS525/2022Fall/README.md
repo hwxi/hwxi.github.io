@@ -63,4 +63,4 @@ Familiarity with programming in general:
 
 * 09/07(Wed): Lecture#01
 * 09/12(Mon): Lecture#02
-* 09/14(Wed): Lecture#02
+* 09/14(Wed): Lecture#03

@@ -59,7 +59,7 @@ involves:
 * ClassTime: Tue&Thu: 5:00 -- 6:15pm
 * Office Hours: To be announced
 * Piazza Link: [For discussions](https://piazza.com/bu/spring2025/bucascs392x1/home)
-* Class Repository: [https://github.com/hwxi/CS520-2021-Spring](https://github.com/hwxi/CS392-2025-Spring)
+* Class Repository: [https://github.com/hwxi/CS392-2025-Spring](https://github.com/hwxi/CS392-2025-Spring)
 
 ### Grading Policy
 

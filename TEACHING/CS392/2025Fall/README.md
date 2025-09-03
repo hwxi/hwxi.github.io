@@ -11,7 +11,7 @@ I primarily teach the following courses at BUCS:
 
 I am scheduled to teach BU CAS CS392X1 in Fall, 2025.
 Note that this class is designed to be a faster-paced version of CS112.
-Please read the [slides](./CS392/2025Fall/admin/faster-paced.pdf) for more information.
+Please read the [slides](./admin/faster-paced.pdf) for more information.
 
 ### Title
 
@@ -51,7 +51,7 @@ involves:
   * Evaluating the efficiency and correctness of programs empirically, by using
     various tools in properly designed experiments.
 
-### [Syllabus](./CS392/2025Fall/admin/syllabus.pdf)
+### [Syllabus](./admin/syllabus.pdf)
 
 ### Logistics
 

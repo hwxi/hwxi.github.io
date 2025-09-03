@@ -13,17 +13,6 @@ I am scheduled to teach BU CAS CS392 in Spring, 2025.
 Note that this class is designed to be a faster-paced version of CS112.
 Please read the [slides](./admin/faster-paced.pdf) for more information.
 
-### How to proceed?
-
-* There will be a placement test given.
-* Please take it if you are interested. We will send out invitations
-  based on the quality of the submitted solutions to this test.
-* Note that the class time is not yet fixed. Here are some possibilities:
-  * Tuesday/Thursday 09:30am-10:45am
-  * Tuesday/Thursday 11:00am-12:15am
-  * Tuesday/Thursday 05:00pm-06:15pm
-  * Some other times in case none of the above work out
-
 ### Title
 
 * Introduction to Programming II (Data Structures)
@@ -62,7 +51,7 @@ involves:
   * Evaluating the efficiency and correctness of programs empirically, by using
     various tools in properly designed experiments.
 
-### [Syllabus](./CS392/2025Sprn/admin/syllabus.pdf)
+### [Syllabus](./admin/syllabus.pdf)
 
 ### Logistics
 

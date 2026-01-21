@@ -52,7 +52,7 @@ involves:
   * Evaluating the efficiency and correctness of programs empirically, by using
     various tools in properly designed experiments.
 
-### [Syllabus](./admin/syllabus.pdf)
+### [Syllabus](./CS392/2026Sprn/admin/syllabus.pdf)
 
 ### Logistics
 

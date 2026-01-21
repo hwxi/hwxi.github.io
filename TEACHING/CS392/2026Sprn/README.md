@@ -55,7 +55,7 @@ involves:
 
 ### Logistics
 
-* Classroom: CAS B06B
+* Classroom: CAS 320
 * ClassTime: Tue&Thu: 3:30 -- 4:45pm
 * Office Hours: To be announced
 * Piazza Link: [For discussions](https://piazza.com/bu/spring2026/bucascs392x1/home)

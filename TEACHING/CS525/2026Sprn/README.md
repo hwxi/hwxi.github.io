@@ -1,6 +1,6 @@
-## Fall, 2022
+## Spring, 2026
 
-I am scheduled to teach BU CAS CS525 in Fall, 2022.
+I am scheduled to teach BU CAS CS525 in Spring, 2022.
 
 ### Title
 
@@ -21,13 +21,13 @@ you so wish.
 
 ### Logistics
 
-* Classroom: EOP 264
-* ClassTime: Mon&Wed: 2:30 -- 3:45pm
-* LabRoom&Time: EOP 264 Mon: 1:25 -- 2:15 (only if announced ahead)
-* Office Hours: Tuesday: 10-12; Wednesday: 4-5; and by appointments (Zoom)
+* Classroom: CDS 801
+* ClassTime: Tue&Thu: 12:30 -- 1:45pm
+* LabRoom&Time: Only if announced ahead
+* Office Hours: TBD
 * Zoom Links: [For meetings](https://bostonu.zoom.us/j/7094072843?pwd=VFlPb3JMYmdCQWpsOTl6UXdoVjR2UT09)
-* Piazza Link: [For discussions](https://piazza.com/class/fall2022/bucascs525)
-* Class Repository: [https://github.com/hwxi/CS525-2022-Fall](https://github.com/hwxi/CS525-2022-Fall)
+* Piazza Link: [For discussions](https://piazza.com/class/fall2026/bucascs525)
+* Class Repository: [https://github.com/hwxi/CS525-2022-Spring](https://github.com/hwxi/CS525-2022-Spring)
 
 ### [Schedule](./schedule.txt)
 
@@ -53,6 +53,7 @@ Familiarity with programming in general:
 
 ### Programming Languages
 
+* Python 3
 * [ATS](http://www.ats-lang.org) (this
   [mode](http://ats-lang.sourceforge.net/DOCUMENT/ATS-Postiats/utils/emacs/ats2-mode.el)
   may be helpful if you use emacs to edit ATS source code)
@@ -60,7 +61,3 @@ Familiarity with programming in general:
 * Or any other programming languages you are comfortable with.
 
 ### Class Calendar
-
-* 09/07(Wed): Lecture#01
-* 09/12(Mon): Lecture#02
-* 09/14(Wed): Lecture#03

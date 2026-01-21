@@ -1,0 +1,17 @@
+################################################
+//
+lambda-calculus
+functional programming
+//
+LAMBDA, a simply typed
+programming language based on lambda-calculus
+//
+evaluator for LAMBDA (substitution)
+evaluator for LAMBDA (closure-based)
+//
+type-checking for LAMBDA
+type-inference for LAMBDA (Hindley style)
+//
+Compiling LAMBDA to a subset of the C PL
+//
+################################################

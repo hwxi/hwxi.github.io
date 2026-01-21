@@ -9,6 +9,14 @@ I primarily teach the following courses at BUCS:
 
 ## Spring, 2026
 
+### CS525
+
+I am scheduled to teach BU CAS CS525 in Spring, 2026.
+This class covers some basics of modern approaches to
+compiler design and implementation.
+
+### CS392 X1
+
 I am scheduled to teach BU CAS CS392X1 in Spring, 2026.  Note that
 this class is designed to be a faster-paced version of CS112.  Please
 read the [slides](./CS392/2026Sprn/admin/faster-paced.pdf) for more

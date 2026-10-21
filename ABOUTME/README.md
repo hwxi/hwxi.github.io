@@ -1,5 +1,4 @@
 # About Me
-### ([picture](./HongweiXi-eight-month-painting.png))
 ### ([Xi-CV.html](./Xi-CV.html))([Xi-CV.pdf](./Xi-CV.pdf))
 
 I am the principal designer, implementer and maintainer of the [ATS

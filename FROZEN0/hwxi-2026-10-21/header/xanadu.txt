@@ -1,0 +1,39 @@
+Project Title: Imperative Programming with Dependent Types 
+
+--------------------------------------------------------------
+
+Principal Investigator:  Hongwei Xi  
+Support: NSF CCR-0224244, 2000 - 2004
+Keywords: Dependent Types, Xanadu, DTAL  
+
+We propose to enrich practical imperative programming with a type
+discipline that allows for specification and inference of significantly
+more precise information on programs than those enforced in languages such
+as Java and Standard ML (SML).  The primary motivation for developing such
+a type discipline is to enable the programmer to express more program
+properties with types and then enforce these properties through
+type-checking. It is well-known that a type discipline such as the one
+enforced in Java or SML can effectively facilitate program error
+detection. Therefore, it can be expected that a stronger type discipline
+can help detect more program errors, leading to the production of more
+robust software.
+
+The notion of dependent types, which was largely invented for modeling
+programs with more accuracy, has been studied for at least three
+decades. However, the use of dependent types in practical programming has
+been rare if there is any, and this, we think, is mainly caused by some
+great difficulty in designing a practically useful type inference algorithm
+for a dependent type system. We have presented an approach to addressing
+the difficulty in the design of Dependent ML (DML), which extends ML with a
+notion of restricted form of dependent types. It is also demonstrated that
+dependent types in DML can facilitate array bound check elimination,
+redundant pattern matching clause removal, tag check elimination and
+tagless representation of datatypes. Evidently, an immediate question is
+whether we can reap some similar benefits by incorporating dependent types
+into imperative programming. We propose to address this question by
+designing a dependently typed imperative programming language. 
+
+In short, we propose to design a dependently typed imperative programming
+language for studying the use of dependent types in practical imperative
+programming, and we expect this study can eventually lead to the production
+of software that is not only more robust but also less costly to maintain.

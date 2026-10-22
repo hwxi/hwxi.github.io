@@ -1,0 +1,108 @@
+Bio:
+
+Hongwei Xi received his Ph.D. degree in the field of Pure and Applied Logic
+from Carnegie Mellon University (CMU), Pittsburgh, PA, 1998. He joined the
+Computer Science Department at Boston University in October 2001, and is
+currently an Associate Professor of Computer Science.  Dr. Xi's research
+primarily focuses on applying advanced type theory to modern programming
+language design and implementation. He is the principal designer and
+implementor of the ATS programming language, which aims to facilitate the
+construction of safe and reliable software by advocating a programming
+paradigm that combines programming with theorem proving.  Dr. Xi has also
+done a large body of pioneering work on supporting dependent types and
+linear types for practical programming. He served on the program committees
+of several prestigious ACM conferences on programming languages (e.g.,
+POPL, PLDI and ICFP) and was a recipient of the NSF CAREER Award.
+
+######
+
+PhD Advisees:
+
+Chiyan Chen; he received his PhD degree in the summer of 2005; software
+engineer at Yahoo Inc.
+
+Dengping Zhu; he received his PhD degree in the summer of 2006; software
+engineer at Bloomberg Inc.
+
+Rui Shi; he received his PhD degree in the summer of 2007; software
+engineer at Yahoo Inc.
+
+######
+
+Research Project
+
+ATS for systems programming with theorem proving
+
+Funded by National Science Foundation (2010-2013)
+
+Typical system design is marked by tradeoffs between factors such
+as efficiency and reliability, features and security, etc. As of now, most
+low-level systems (e.g, operating systems) are written in unsafe
+programming languages that are either untyped (e.g., assembly) or weakly
+typed (e.g., C).  Evidently, a question of great interest is why people (in
+general) do not implement these systems in existing safe languages such as
+Java. Among a variety of reasons, a particularly important one is that
+low-level features such as explicit use of pointers and pointer arithmetic
+are disallowed in such safe languages in order to guarantee
+safety. However, the very need to achieve optimal hardware usage often
+demands the availability of such features. In addition, the requirement for
+run-time garbage collection (GC) by safe languages can often become a great
+or even insurmountable obstacle when handling of real-time events must meet
+hard deadlines. Can we have a safe and practical programming language that
+also supports low-level programming features?
+
+ATS is a full-fledged programming language with a type system rooted in the
+framework (Applied Type System). ATS can run without GC and it supports
+low-level features such as pointers and pointer arithmetic. When such
+features are used, the programmer is required to construct proofs within
+ATS to justify the safety of their use. This is a programming paradigm we
+refer to as programming with theorem-proving. In this project, we are
+to investigate approaches that allow ATS to be effectively employed in the
+construction of safe and reliable low-level systems. In particular, we are
+to make extensive use of programming with theorem-proving in the design and
+implementation of kernel data structures so as to guarantee their being
+implemented as well as used correctly. We are also to rely on dependent
+types and linear types to track the manipulation of computing resources,
+preventing potential misuses. At the minimum, we are to build a running OS
+in ATS to demonstrate the practicality of combining systems programming
+with theorem-proving. However, the goal of the project is not about
+implementing a particular "one-off" OS in ATS. Instead, we aim to identify
+and then formalize approaches that can greatly enhance the quality of
+low-level systems design and implementation by making use of advanced type
+theory.
+
+######
+
+ATS: A Language to Support Practical Programming with Theorem Proving
+
+Funded by National Science Foundation (2007-2011)
+
+The immense complexity involved in software design and implementation is
+evident. In this day and age, software design is often expressed in forms
+of varying degree of formalism, ranging from verbal discussions to
+pencil/paper drawings to plain text descriptions to UML diagrams to
+specifications in languages such as Z, etc. Also, there is often an
+enormous gap between the design of a software system and its actual
+implementation, making it exceedingly difficult to construct software that
+meets its specification.
+
+However, the very ability to construct software that meets its
+specification is crucial to (highly) dependable computing, and there seem
+to be no other shortcuts.  We propose to design and implement a
+full-fledged programming language ATS with its type system rooted in the
+framework Applied Type System so that we can use types to formally capture
+(certain) specifications in software design and then resort to
+type-checking to enforce that the captured specifications be met in an
+actual implementation. In stark contrast to pure theorem proving systems
+where programs are extracted from proofs (instead of being constructed
+directly), ATS is to be designed as an effectful programming language that
+contains a pure theorem-proving subsystem to support the paradigm of
+programming with theorem proving. There is no program extraction in
+ATS. Instead, programs are constructed directly in ATS (while proofs in
+programs are to be erased before run-time to support efficient
+execution). We plan to evaluate the effectiveness of ATS in the
+construction of real and complex systems. In particular, we plan to
+employ ATS in intra-discipline research on constructing a verifiably
+safe and secure file system.
+
+######

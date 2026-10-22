@@ -1,0 +1,324 @@
+<html>
+<head>
+<title>Hongwei Xi's Research Interests </title>
+<meta name="description" content="Hongwei Xi's Research Interests">
+<meta name="keywords" content="Computer Science, Programming Languages, Type Theory, Functional Programming, Automated Deduction, Constraints, Dependent ML, DML, Xanadu">
+<link rel="stylesheet" href="../hwxi.css" type="text/css">
+</head>
+<body bgcolor="#E7CF9E" text="#000000" background="../pictures/grey03.png" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="100%" border=0 cellspacing=0 cellpadding=10>
+<tr>
+<td class="sidebar">&nbsp;</td>
+<td class="main">&nbsp;</td>
+<td class="main">&nbsp;</td>
+</tr>
+<tr>
+<td class="sidebar" valign="top">
+<table border=0 cellspacing=0 cellpadding=2>
+  <tr><td class="menu"><a href="../index.html">Home</td></tr>
+  <tr><td class="menu"><a href="contact.html">Contact&nbsp;Information</a></td></tr>
+  <tr><td class="menu"><a href="CAL/calendar.html">Weekly Calendar</a></td></tr>
+  <tr><td class="menu"><a href="cv.html">Curriculum&nbsp;Vit&aelig;</a></td></tr>
+  <tr><td class="menu"><B class="here">Research&nbsp;Interests</b></td></tr>
+  <tr><td class="menu"><a href="../academic/publications.html">Publications</a></td></tr>
+  <tr><td class="menu"><a href="../academic/projects.html">Projects</a></td></tr>
+  <tr><td class="submenu" align="right"><a href="http://www.ats-lang.org">ATS</a></td></tr>
+<!--
+  <tr><td class="submenu" align="right"><a href="http://www.cs.bu.edu/~hwxi/Xanadu/Xanadu.html">Xanadu</a></td></tr>
+  <tr><td class="submenu" align="right"><a href="http://www.cs.bu.edu/~hwxi/DML/DML.html">Dependent ML</a></td></tr>
+-->
+  <tr><td class="menu"><a href="../academic/courses">Courses</a></td></tr>
+  <tr><td class="submenu" align="right"><a href="../academic/courses/CS520/Fall09/classpage.html">PPL</a> [Fall 09]</td></tr>
+  <tr><td class="submenu" align="right"><a href="../academic/courses/CS320/Summer09/classpage.html">CPL</a> [Summer 09]</td></tr>
+  <tr><td class="submenu" align="right"><a href="../academic/courses/CS525/Spring09/classpage.html">Compiler</a> [Spring 09]</td></tr>
+  <tr><td class="submenu" align="right"><a href="../academic/courses/CS520/Fall08/classpage.html">PPL</a> [Fall 08]</td></tr>
+  <tr><td class="submenu" align="right"><a href="../academic/courses/CS112/Spring07/classpage.html">Intro to CS II</a> [Spring 07]</td></tr>
+  <tr><td class="submenu" align="right"><a href="../academic/courses/CS320/Fall06/classpage.html">CPL</a> [Fall 06]</td></tr>
+  <tr><td class="submenu" align="right"><a href="../academic/courses/CS112/Spring06/classpage.html">Intro to CS II</a> [Spring 06]</td></tr>
+  <tr><td class="submenu" align="right"><a href="../academic/courses/CS520/Fall05/classpage.html">PPL</a> [Fall 05]</td></tr>
+  <tr><td class="submenu" align="right"><a href="../academic/courses/CS525/Spring05/classpage.html">Compiler</a> [Spring 05]</td></tr>
+  <tr><td class="submenu" align="right"><a href="../academic/courses/CS320/Fall04/classpage.html">CPL</a> [Fall 04]</td></tr>
+  <tr><td class="submenu" align="right"><a href="../academic/courses/CS525/Spring04/classpage.html">Compiler</a> [Spring 04]</td></tr>
+  <tr><td class="submenu" align="right"><a href="../academic/courses/CS520/Fall03/classpage.html">PPL</a> [Fall 03]</td></tr>
+  <tr><td class="submenu" align="right"><a href="../academic/courses/CS591/Spring03/classpage.html">CAD</a> [Spring 03]</td></tr>
+  <tr><td class="submenu" align="right"><a href="../academic/courses/CS520/Fall02/classpage.html">PPL</a> [Fall 02]</td></tr>
+  <tr><td class="submenu" align="right"><a href="../academic/courses/CS320/Spring02/classpage.html">CPL</a> [Spring 02]</td></tr>
+
+</table>
+</td>
+<td class="main">&nbsp</td>
+<td class="main" valign="top">
+<h1>Hongwei Xi<br/>
+    Research Interests
+</h1>
+
+<!--
+<h3>Summary</h3>
+<ul>
+<li> Programming Language Design and Implementation, Type Theory
+<li> Safety of both High-level and Low-level code, Certified Compilation
+<li> Software Engineering, Specification and Verification
+<li> Term Rewriting, Theorem Proving
+</UL>
+-->
+
+How many times have you heard someone saying "I know the answer but I can't
+explain it"? A lot, I bet. I can easily tell the image of a cat from that
+of a dog, but I cannot explain how I do it. In programming, it is often
+easier for someone to write code than to explain what the code actually
+does. This is very worrisome, especially, if we want to build high-quality
+software systems.
+<p>
+
+In order to be precise, we need to be able to state clearly what we want.
+Let me use the following elementary problem as an example:<br/>
+
+<menu>
+<em>
+Alice and Bob ate 10 apples together. Alice ate 3 apples. What is the
+number of apples eaten by Bob?
+</em>
+</menu>
+
+My daughter, a first grader, had no difficulty telling me immediately that
+the answer is 7. I, however, wanted her to give me a more formal
+specification of the problem. We essentially came up with the following one
+at the end:
+<menu>
+<li>
+Let A and B stand for the numbers of apples eaten by Alice and Bob,
+respectively.
+<li>
+A+B=10
+<li>
+A=3
+<li>
+What is the value of B?
+</menu>
+
+With this specification, we could readily and formally derive that (A+B)-A
+= 10-3.  Addition being both commutative and associative, we derived
+(A+B)-A = B+0 = B.  Therefore, B = 7. So we not only found that 7 is an
+answer but also proved that 7 is the unique answer.
+<p>
+
+While I might have been a bit overly pedantic about the above elementary
+problem, I do hope that you can see my point of being precise here. I
+strive to be precise in programming and have a passion
+for <em>effectively</em> enforcing precision in realistic software
+development.
+<p>
+
+Academically, my primary research focuses on the design and implementation
+of programming languages. I have also developed keen interests to promoting
+software engineering benefits through programming language design.
+Ideally, a programming language should be simple and general, and it should
+permit extensive error checking, facilitate proofs of program properties
+and possess a correct and efficient implementation. Invariably, there will
+be conflicts among these goals, which must be resolved with careful
+attention paid to the needs of the user.  In order to make significant
+progress, I firmly believe the necessity to adopt approaches that are
+capable of addressing realistic problems.
+<p>
+
+Through many years of continuing efforts, I, working with several graduate
+students, have designed and implemented <a
+href="http://www.ats-lang.org"><b>ATS</b></a>, a programming language with
+a highly expressive type system rooted in the framework <em>Applied Type
+System</em>.
+
+In particular, both dependent types and linear types are available in
+ATS. Also, a variety of programming paradigms have already been incorprated
+into ATS, which include:
+<p>
+<UL>
+<li>Functional programming.
+
+While ATS is primarily a language based on eager call-by-value evaluation,
+it also supports lazy, that is, call-by-need evaluation.
+<p>
+
+<li>Imperative programming (with safe support for explicit pointers and
+pointer arithmetic)
+<p>
+
+<!--
+<li>Object-oriented programming
+<p>
+-->
+
+<li>Concurrent programming (with pthreads)
+<p>
+
+<li>Modular programming.
+
+The module system of ATS is largely infuenced by that of Modula-3, which is
+both simple and general as well as effective in supporting large scale
+programming.
+<p>
+
+</ul>
+<p>
+
+In addition, ATS contains a component ATS/LF that supports a form of
+(interactive) theorem proving, where proofs are written as total functions.
+With this component, ATS advocates a programming style that combines
+programming with theorem proving. Furthermore, ATS/LF can act as
+a logical framework for encoding various deduction systems and their
+(meta-)properties.
+<p>
+
+As of now, my primary research interest centers around implementing real
+and complex systems in ATS that can convincingly demonstrate the power of
+advanced types (such as dependent types and linear types) in facilitating
+the construction of high-quality software.
+
+<!--
+Programming is a notoriously error-prone process. As a consequence, a great
+number of approaches have been developed to facilitate the detection of
+program errors. In practice, the programmer often knows certain properties
+that must hold in a <em>correct</em> implementation; it is therefore an
+indication of program errors if the actual implementation violates some of
+these properties.  For instance, various type systems have been
+successfully designed to detect program errors that cause violations of the
+supported type disciplines.  For the sake of practicality of type-checking,
+most type systems developed for general purpose programming languages tend
+to be simple and coarse, and there is ample room for improvement.
+<p>
+
+<font size=4 face=bold><i><b>Dependent ML</i></b></font>&nbsp; As an
+advocate of types, my doctoral thesis, supervised by <a
+href="http://www.cs.cmu.edu/~fp">Frank Pfenning</a>, addresses the issue of
+designing a type system to support some (restricted) use of dependent types
+in practical programming, allowing more accurate capture of program
+invariants with types and thus detecting more program errors at
+compile-time.  For instance, the array subscript operation <i>sub</i>
+can be assigned the following dependent type:
+
+<pre>
+<b>sub: {size:nat, i:nat | i < size} 'a array(size) * int(i) -> 'a</b>
+</pre>
+
+which states that for every pair of natural number
+<i>size</i> and <i>i</i> satisfying <i>i</i> < <i>size</i>,
+<i>sub</i> returns an element of type <i>'a</i> if given an array of size
+<i>size</i> containing elements of type <i>'a</i> and an integer equal to
+<i>i</i>. Clearly, if a function of this type is called, there is no need
+for inserting run-time array bound checks to check possible memory
+violations caused by out-of-bounds array subscripting.
+<p>
+
+Dependent ML (DML) enriches ML with a form of restricted dependent types.
+I have formalized a type-checking algorithm for DML and proven its
+soundness. I have also implemented the type-checking algorithm.  The
+results are exciting. For instance, I have verified that no array bound
+checks are needed in many realistic examples such as an optimized quicksort
+function and a binary search function in the SML/NJ library, an optimized
+implementation of FFT, a highly optimized byte copy function used in the <a
+href="http://foxnet.cs.cmu.edu">Fox</a> project, etc.  I have also measured
+the gain from eliminating array bound checks in many programs, which ranges
+from 15% to 75%. For capturing program errors, one interesting case is that
+I have verified that the insertion operation on a red-black tree always
+returns a red-black tree, observing that this invariant indeed helped
+capture some bugs in practice.  In all of these cases, the type information
+supplied by the programmer for type-checking is moderate, usually
+consisting of less than 20% of the entire code.  In addition, most of the
+type information can also serve as informative program documentation, which
+is mechanically checked and therefore can be fully trusted. I feel that
+this yields a strong justification for the type-based approach I have
+adopted.
+<p>
+
+<font size=4 face=bold><i><b>Dependently Typed Low-level
+Code</i></b></font>&nbsp; After taking a postdoctoral research position at
+Oregon Graduate Institute (OGI), I, with <a
+href="http://www.cs.cmu.edu/~rwh/">Robert Harper</a>, started designing a
+dependently typed assembly language (DTAL) so that the type information in
+programs written in a high-level language such as DML can be smoothly
+passed down to the assembly code compiled from the programs. This research
+is exhibiting many exciting new opportunities for performing various
+aggressive compiler optimizations. As a significant application, I, with <a
+href="http://www.cse.ogi.edu/~sxia/">Songtao Xia</a> at OGI, constructed a
+dependent type system for a subset of Java virtual machine language (JVML)
+so that array bound check elimination can be performed in JVML bytecode. We
+regard this as a necessary step towards producing a high performance Java
+compiler for scientific computing.
+<p>
+
+<font size=4 face=bold><i><b>Imperative Programming with Dependent
+Types</i></b></font>&nbsp; It has been demonstrated that dependent types in
+DML can facilitate array bound check elimination, redundant pattern
+matching clause removal, tag check elimination and tagless representation
+of datatypes. Evidently, an immediate question is whether we can reap some
+similar benefits by incorporating dependent types into imperative
+programming. We are motivated to design a dependently typed imperative
+programming language to address this question.
+<p>
+
+There is yet another motivation for incorporating dependent types into
+practical programming. In an untrusted computing environment such as
+Internet, mobile code received from an unknown source may not be
+trusted. Therefore, code recipient often needs to perform certain static
+and/or dynamic checks on received mobile code to prevent from happening
+some undesirable consequences such as security breach.  We have designed a
+dependently typed assembly language (DTAL) in which the type system can
+guarantee the memory safety of DTAL code, where memory safety consists of
+both type safety and safe array subscripting.  It is, however, difficult to
+compile into DTAL code a program written in a language such as Java since
+it often seems ineffective to synthesize from such a program the type
+information needed in DTAL code. With a dependently typed imperative
+programming language, we expect to implement a compiler that can translate
+dependent types at source level into dependent types at assembly level,
+effectively producing DTAL code.
+<p>
+
+<font size=4 face=bold><i><b>Software Engineering</i></b></font>&nbsp; I
+have also developed a keen interest to the use of formal methods in
+software specification and verification. In particular, I am interested in
+an approach that allows the programmer to blend objected-orient programming
+with <em>light-weighted</em> specification and then verify whether the
+actual implementation meets the specification.  I, with Zaiwei Du, have
+initialized this line of research with Object-Z, an object-oriented
+specification language, as a start point.
+<p>
+
+My future research plans include further investigation of the use of
+dependent types in program error detection and compiler optimization.
+<p>
+
+Also I have retained an interest in typed and untyped lambda-calculi,
+automated theorem proving, and term rewriting systems. In this direction my
+primary concern is to study the evaluation of open code, i.e., code
+containing free variables, and to find a satisfactory framework for proving
+program termination. This is intimately related to the studies on program
+transformation.
+<p>
+
+I hope to collaborate with both programming language theorists and software
+system practitioners in the future, making significant contributions to the
+goal of designing and implementing a programming language which is both
+high-level and efficient.
+<p>
+-->
+
+<hr>
+<p class="bottom" align="center">
+  [ <a href="../index.html">Home</a>
+  | <a href="contact.html">Contact</a>
+  | <a href="cv.html">CV</a>
+  | <B class="here">Research</b>
+  | <a href="../academic/publications.html">Publications</a>
+  ] <br/>
+  [ <a href="../academic/projects.html">Projects</a>
+  | <a href="../courses/">Courses</a>
+  ] <br/>
+</p>
+<p class="bottom">
+  <a href="mailto:hwxi@cs.bu.edu">hwxi AT cs DOT bu DOT edu</a> <br/>
+  <a href="http://www.cs.bu.edu/~hwxi/">http://www.cs.bu.edu/~hwxi</a>
+</p>
+</td>
+</tr>
+</table>
+</body>
+</html>

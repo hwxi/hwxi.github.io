@@ -1,0 +1,658 @@
+\documentclass[11pt]{article}
+\usepackage{latexsym}
+\usepackage{pstricks}
+\usepackage{epsfig}
+
+\def\namefont{\huge\bf}
+\def\subjectfont{\Large\bf}
+\def\itemfont{\large\bf}
+\newdimen\leftdim
+\leftdim=192pt
+\newdimen\rightdim
+\rightdim=300pt
+
+\newdimen\wholedim
+\wholedim=492pt
+
+\newdimen\onecoldim
+\onecoldim=462pt
+
+\newdimen\smalldim
+\smalldim=1pt
+\newdimen\middim
+\middim=12pt
+
+\def\brhomus{\hbox to 12pt{\pspolygon[xunit=2pt,yunit=2pt,fillstyle=solid,fillcolor=black](0,0)(3,1.25)(6,0)(3,-1.25)\hss}}
+\def\wrhomus{\hbox to 12pt{\pspolygon[xunit=2pt,yunit=2pt,fillstyle=solid,fillcolor=white](0,0)(3,1.25)(6,0)(3,-1.25)\hss}}
+
+\def\bellipse{\hbox to 18pt{\hss\psellipse[xunit=1pt,yunit=1pt,fillstyle=solid,fillcolor=black](2.5,3)(2.5,1.5)}}
+\def\wellipse{\hbox to 12pt{\psellipse[xunit=1pt,yunit=1pt,fillstyle=solid,fillcolor=white](6,0)(6,2.5)}}
+
+\topmargin=-24pt
+\textwidth=7.2in
+\textheight=10in
+\oddsidemargin=-0.325in
+\evensidemargin=-0.325in
+
+\def\leftdeco{%
+\hbox{\brhomus\wrhomus\brhomus\wrhomus\brhomus%
+      \wrhomus\brhomus\wrhomus\brhomus\wrhomus%
+      \brhomus\wrhomus\brhomus\wrhomus\brhomus\wrhomus}}
+%\def\leftdeco{}
+
+\def\rightdeco{\hbox{\psline[xunit=1pt](0,0)(300,0)}}
+%\def\rightdeco{}
+
+\begin{document}
+\pagestyle{empty}
+\begin{center}
+\begin{tabular}{rp{\rightdim}}
+                              & \\[-24pt]
+\hbox to 144pt{\kern-216pt\vbox to -48pt{\epsfbox{UClogo.ps}}\hss} & \\
+                              & \hbox to \rightdim{\hss Page 1 of 6} \\[-18pt]
+                              & \rightdeco \\[\smalldim]
+                              & {\namefont Hongwei Xi}  \\[\middim]
+                              & Assistant Professor \\
+                              & Department of Electrical \& Computer Engineering \\
+                              & and Computer Science \\
+                              & University of Cincinnati \\
+                              & P. O. Box 210030 \\
+                              & Cincinnati, OH 45221-0030 \\
+                              & Tel: +1 513 556 4762 (Office) \\
+                              & Tel: +1 513 729 0344 (Home) \\
+                              & Fax: +1 513 556 7326 (Department) \\
+                              & Email: hwxi@ececs.uc.edu \\
+                              & URL: http://www.ececs.uc.edu/\char126hwxi/ \\
+\leftdeco                     & \rightdeco \\[\smalldim]
+\hbox to \leftdim{\subjectfont Education\hss} & \\[\middim]
+{\itemfont Ph.D. in Pure \& Applied Logic} & {\em Carnegie Mellon University, USA, December 1998} \\
+%%%December 1998                & {GPA 3.98/4.00} \\
+{\itemfont M.S. in Mathematics} & {\em Nanjing University, China, July 1988} \\
+%%%July 1988                     & \\ %{\em GPA 3.60/4.00} \\
+{\itemfont B.S. in Mathematics} & {\em Nanjing University, China, June 1985} \\
+%%%June 1985                     & \\ %{\em Ranked 1st in the Class. GPA 3.70/4.00} \\
+
+\leftdeco                     & \rightdeco \\[\smalldim]
+\hbox to \leftdim{\subjectfont Academic Experience\hss} & \\[\middim]
+{\itemfont Assistant Professor} & Department of ECECS, University of Cincinnati \\
+         09/99 to Present      & Teaching both undergraduate and graduate courses and supervising graduate students \\[\smalldim]
+{\itemfont Post-doc Research Associate} & Department of Computer Science \& Engineering \\
+         08/98 to 08/99        & Oregon Graduate Institute \\[\smalldim]
+
+{\itemfont Doctoral Thesis}    & {\em Dependent Types in Practical Programming} \\
+           02/96 to 08/98      &
+This work strengthens the current type system of the functional programming language ML with
+a restricted form of dependent types. It not only provides the programmer with significantly more
+information to catch program errors at compile-time, but also enables the compiler writer to
+obtain type information for optimizing code generation. As a significant application, we
+have shown how to eliminate array bound checks in realistic programs.
+%Please check out some interesting examples in \verb`http://www.cs.cmu.edu/~hwxi/DML/examples/`.
+\\[\smalldim]
+{\itemfont Instructor} & {\em Dept. of Mathematical Sciences, Carnegie Mellon Univ.} \\
+           Summer 1998 &   Calculus II for Humanities and Social Sciences \\
+{\itemfont Instructor} & {\em Carnegie Mellon Action Program} \\
+           Summer 1997 &   An introductory calculus course for minority students \\
+{\itemfont Instructor} & {\em Dept.  Sciences, Carnegie Mellon Univ.} \\
+           Summer 1997 & Calculus II for Humanities and Social Sciences \\
+{\itemfont Instructor} & {\em Dept. of Mathematical Sciences, Carnegie Mellon Univ.} \\
+           Summer 1996 & Calculus II for Humanities and Social Sciences \\
+
+{\itemfont Teaching Assistant} & {\em Dept. of Mathematical Sciences, Carnegie Mellon Univ.} \\
+           09/94 to 05/98      &
+Calculus I \& II, Calculus in 3 dimensions, Modern Math. \\[\smalldim]
+
+\end{tabular}\end{center}
+
+\begin{center}
+\begin{tabular}{rp{\rightdim}}
+                               & \hbox to \rightdim{\hss Page 2 of 6} \\[-18pt]
+                               & \rightdeco \\
+\hbox to \leftdim{\subjectfont Academic Experience\hss} & {\em (continued)} \\[\middim]
+{\itemfont Research Assistant} &
+{\em Dept. of Mathematical Sciences, Carnegie Mellon Univ.} \\
+ 06/92 to 08/94 and Summer 95 &
+Maintaining and improving a very large theorem proving system TPS, which
+consists of more than 100,000 lines of code written in Common Lisp. \\
+
+{\itemfont Assistant Professor} & {\em Dept. of Computer Science, Shanghai Jiao Tong University} \\
+             07/88 to 06/92   &
+Responsible for teaching {\em Mathematical Logic} and {\em Discrete Mathematics}
+at undergraduate level and {\em Type Theory} at graduate level.
+Also responsible for designing a programing language based upon equational reasoning
+and supervising the internship of undergraduate students. \\
+
+\leftdeco                     & \rightdeco \\[\smalldim]
+\hbox to \leftdim{\subjectfont Relevant Experience\hss} & \\[\middim]
+{\itemfont Consultant}        & {\em The 8th Construction Company, Shanghai} \\
+             07/90 to 05/91   &
+Designing a graphics system on PC for drawing flowcharts and monitoring construction schedules. \\
+{\itemfont Consultant}        &
+{\em The Construction Branch of Bao Shan Steel Factory, Shanghai} \\
+             06/91 to 06/92   &
+Using software monitoring the construction of the No. 3 furnace in Bao Shan Steel Factory,
+which was the largest in China at that time. \\
+
+\leftdeco                     & \rightdeco \\[\smalldim]
+\hbox to \leftdim{\subjectfont Selected Courses\hss} &
+{\em All are graduate level ones taken at Carnegie Mellon University} \\[\middim]
+{\itemfont Computer Science}      &
+Programming languages, Computer architecture, Operating systems, Artificial intelligence,
+Algorithms \\
+{\itemfont Mathematics}       & Real analysis, Abstract algebra, Topology, Functional analysis, Mathematical Logic \\
+{\itemfont Statistics}            &
+Advanced probability theory I \& II, Advanced statistics I \& II\\
+
+\leftdeco                     & \rightdeco \\[\smalldim]
+\hbox to \leftdim{\subjectfont PhD Thesis\hss} & \\[\middim]
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse & Hongwei Xi,
+{\em Dependent Types in Practical Programming}, pp viii+189, December 1998. \\
+\end{tabular}%
+} \\[\middim]
+%%%
+\leftdeco                     & \rightdeco \\[\smalldim]
+\hbox to \leftdim{\subjectfont Grant Awards\hss} & \\[\middim]
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse & Hongwei Xi (PI), {\em CAREER: Realistic Program Termination Verification: Theory and Practice}, National Science Foundation, CCR-0092703, \$284,938, 2001-2006. \\[\smalldim]
+\bellipse & Hongwei Xi (PI), {\em Imperative Programming with Dependent Types}, National Science Foundation, ITR-0081316, \$334,918, 2000-2003. \\[\smalldim]
+\bellipse & Paul Sivilotti and Hongwei Xi (PIs), {\em Dependent Types for High-Confidence Distributed Systems}, Ohio Board of Regents, \$89,954, 2000-2002. \\[\smalldim]
+\bellipse & Hongwei Xi (PI), {\em Faculty Development}, University of Cincinnati, \$3,108, 2000. \\[\smalldim]
+\end{tabular}%
+} \\[\middim]
+%%%
+\end{tabular}\end{center}
+
+\begin{center}
+\begin{tabular}{rp{\rightdim}}
+                               & \hbox to \rightdim{\hss Page 3 of 6} \\[-18pt]
+                               & \rightdeco \\
+\hbox to \leftdim{\subjectfont Refereed Papers\hss} & \\[\middim]
+\hbox to \leftdim{\kern 12pt\itemfont Publication in Journals\hss} & \\
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse & Femke van Raamsdonk, Paula Severi, Morten H. Sorensen and Hongwei Xi,
+{\em Perpetual Reductions in lambda-calculus},
+Journal of Information and Computation 149(2):173-225, March 1999. \\
+\bellipse & Hongwei Xi, {\em Upper Bounds for Standardization and an Application},
+Journal of Symbolic Logic, 64(1), pp. 291-303, March 1999.
+An earlier version with the same title appeared in Proceedings of the 5th Kurt G{\"o}del Colloquium, 1997.\\
+\end{tabular}%
+} \\
+%%%
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse &
+Peter B. Andrews, Matthew Bishop, Sunil Issar, Dan Nesmith, Frank Pfenning, and Hongwei Xi,
+{\em TPS: A Theorem Proving System for Classical Type Theory},
+Journal of Automated Reasoning, 16(3), pp. 321-353, 1996. \\
+\end{tabular}%
+} \\
+%%%
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse & Hongwei Xi, {\em On recursively enumerable degrees}
+(in Chinese with English abstract), Math. Semiannual of Nanjing University, China, 1989. \\
+\end{tabular}%
+} \\[\middim]
+
+\hbox to \leftdim{\kern 12pt\itemfont Publication in Conferences\hss} & \\[\smalldim]
+%%%
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse & Hongwei Xi, {\em Dependent Types for Program Termination Verification}.
+In Proceedings of 16th IEEE Symposium on Logic in Computer Science ({\bf LICS '01}), Boston (to appear), June 2001. \\
+
+\bellipse & Hongwei Xi, {\em Imperative Programming with Dependent Types}.
+In Proceedings of 15th IEEE Symposium on Logic in Computer Science ({\bf LICS '00}), pp. 375-387, Santa Barbara, June 2000. \\
+
+\bellipse & Hongwei Xi and Songtao Xia, {\em Towards Array Bound Check Elimination in Java Virtual Machine Language}.
+In Proceedings of CASCON '99, pp. 110-125, Mississauga, Ontario, November 1999. \\
+\end{tabular}
+} \\
+%%%
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse &
+Hongwei Xi and Frank Pfenning,
+{\em Dependent Types in Practical Programming}.
+In Proceedings of ACM SIGPLAN Symposium on Principles of Programming Languages ({\bf POPL '99}), pp. 214--227, San Antonio, January 1999.
+\end{tabular}
+} \\
+%%%
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse &
+Hongwei Xi and Frank Pfenning, {\em Eliminating Array Bound Checking
+Through Dependent Types}.  In Proceedings of ACM SIGPLAN Conference on
+Programming Language Design and Implementation ({\bf PLDI '98}), pp. 249--257,
+Montreal, June 1998.
+\end{tabular}
+} \\
+%%%
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse &
+Hongwei Xi, {\em Towards Automated Termination Proofs through ``Freezing''\/}.
+In Proceedings of 9th International Conference on Rewriting Techniques and
+Applications (RTA '98), LNCS, vol.~1379, pp. 271--285, Tsukuba, April 1998. \\
+\end{tabular}
+} \\
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse &
+Hongwei Xi, {\em Evaluation under Lambda-Abstraction}.
+In Proceedings of the 9th International Symposium on Programming Languages,
+Implementations, Logics, and Programs (PLILP '97), LNCS, vol.~1292, pp. 259-273, Southampton, September 1997. \\
+\end{tabular}
+} \\
+%%%
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse &
+Hongwei Xi, {\em Upper Bounds for Standardization and an Application}.
+In Proceedings of the 5th Kurt G\"{o}del Colloquium (KGC '97), LNCS, vol.~1289, pp. 335-348, Vienna, August 1997.
+A detailed version has appeared in the Journal of Symbolic Logic. \\
+\end{tabular}
+} \\
+%%%
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse &
+Hongwei Xi, {\em Simulating Eta-Expansions with Beta-Reductions in the Second-Order Polymorphic Lambda-Calculus}. In Proceedings of Logical Foundations of Computer Science (LFCS '97), LNCS, vol.~1234, pp. 399-409, Yaroslavl, July 1997. \\
+\end{tabular}
+} \\
+%%%
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse &
+Hongwei Xi, {\em Weak and Strong Beta Normalizations in Typed Lambda-Calculi}.
+In Proceedings of Typed Lambda Calculi and Applications (TLCA '97), LNCS, vol.~1210, pp. 390-404,
+Nancy, April 1997. \\[\middim]
+\end{tabular}
+} \\
+
+\hbox to \leftdim{\kern 12pt\itemfont Publication in Workshops\hss} & \\[\smalldim]
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse &
+Hongwei Xi, {\em Dependently Typed Data Structures}.
+In Proceedings of Workshop on Algorithmic Aspects of Advanced Programming Languages
+(WAAAPL '99), Paris, September 1999.
+\end{tabular}
+} \\
+
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse &
+Hongwei Xi, {\em Dead Code Elimination through Dependent Types}.
+In Proceedings of First International Workshop on Practical Aspects of
+Declarative Languages (PADL '99), LNCS vol.~1551, pp. 228--242,
+San Antonio, January 1999.
+\end{tabular}
+} \\[\smalldim]
+%%%
+\end{tabular}\end{center}
+\vfill\break
+
+\begin{center}
+\begin{tabular}{rp{\rightdim}}
+                               & \hbox to \rightdim{\hss Page 4 of 6} \\[-18pt]
+                               & \rightdeco \\
+\hbox to \leftdim{\subjectfont Refereed Papers\hss} & {\em (continued)} \\[\middim]
+\hbox to \leftdim{\kern 12pt\itemfont Publication in Workshops\hss} & {\em (continued)} \\[\smalldim]
+%%%
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse &
+Hongwei Xi, {\em Generalized Lambda-Calculi\/}(abstract).
+In the meeting report of the 4th Workshop on Logic, Language, Information and Computation
+(WoLLIC '97), Logic Journal of Interest Group in Pure and Applied Logics (IGPL), vol.~5(6),
+pp. 925-927, Fortaleza (Cear{\'a}), August 1997.
+\end{tabular}
+} \\
+%%%
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse &
+Peter B. Andrews, Matthew Bishop, Sunil Issar, Dan Nesmith, Frank Pfenning, and Hongwei Xi, {\em TPS: An interactive and automatic tool for proving theorems of type theory}, In Jeffrey J. Joyce and Carl-Johan H. Seger, editors, Proceedings of the 6th International Workshop on Higher-Order Logic Theorem Proving and Its Applications, {\em Springer-Verlag LNCS 780}, pp 366-370, Vancouver, August 1993. \\
+\bellipse &
+Hongwei Xi, {\em On branching and nonbranching recursively enumerable degrees}
+(in Chinese), National Logic Conference, Shantou University, China, October 1990. \\[\middim]
+\end{tabular}
+} \\
+%%%
+%%%
+%%%
+\leftdeco                     & \rightdeco \\[\smalldim]
+\hbox to \leftdim{\subjectfont Unrefereed Papers\hss} & \\[\middim]
+\hbox to \leftdim{\kern 12pt\itemfont Technical Reports\hss} & \\[\smalldim]
+%%%
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse &
+Hongwei Xi and Joachim Steinbach, {\em Erasure for Termination Proofs},
+Technical report OGI-CSE-99-009, Oregon Graduate Institute, August 1999.
+\end{tabular}
+} \\[\middim]
+%%%
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse &
+Hongwei Xi and Robert Harper, {\em Dependently Typed Assembly Languages}.
+Technical report OGI-CSE-99-008, Oregon Graduate Institute, July 1999.
+\end{tabular}
+} \\[\middim]
+%%%
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse &
+Joachim Steinbach and Hongwei Xi,
+{\em Freezing -- Termination Proofs for Classical, Context-Sensitive and
+Innermost Rewriting}, Institut f{\"u}r Informatik, Technische
+Universitat Muenchen, January 1998.
+\end{tabular}
+} \\[\middim]
+%%%
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse &
+Hongwei Xi, {\em On Weak and Strong Normalizations}, Research Report 96-187,
+Mathematics Department, Carnegie Mellon University, 1996.
+\end{tabular}
+} \\[\middim]
+%%%
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse &
+Hongwei Xi, {\em An Induction Measure on Lambda-Terms and Its Applications},
+Research Report 96-192, Department of Mathematical Sciences, 1996. \\
+\end{tabular}
+} \\[\middim]
+
+\hbox to \leftdim{\kern 12pt\itemfont Manuscripts\hss} & \\[\smalldim]
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse &
+Hongwei Xi, {\em Dependent Types for Robust Programs}, August, 2000.\\
+\end{tabular}
+} \\[\middim]
+
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse &
+Hongwei Xi, {\em Combining Algebraic Rewriting with Second Order Extensional Polymorphic
+Lambda Calculus}, October, 1996.\\
+\end{tabular}
+} \\[\middim]
+
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse &
+Hongwei Xi, {\em Separating Developments}, October, 1996. \\
+\end{tabular}
+} \\[\middim]
+
+%%% %%%
+%%% \hbox to \leftdim{\kern 12pt\itemfont Submitted Papers\hss} & \\
+%%% \multicolumn{2}{c}{%
+%%% \begin{tabular}{rp{\onecoldim}}
+%%% \bellipse &
+%%% Hongwei Xi, {\em Generalized Lambda-Calculi}(extended abstract), September, 1997.
+%%% \end{tabular}
+%%% } \\
+%\hbox to \leftdim{\subjectfont Submitted Papers\hss} & \\[\middim]
+%%%%
+%\multicolumn{2}{c}{%
+%\begin{tabular}{rp{\onecoldim}}
+%\bellipse &
+%Joachim Steinbach and Hongwei Xi,
+%{\em Freezing -- Termination Proofs for Classical, Context-Sensitive and Innermost Rewriting},
+%January, 1998. \\
+%\end{tabular}
+%} \\
+\leftdeco                     & \rightdeco \\[\smalldim]
+\hbox to \leftdim{\subjectfont Technical Writing\hss} & \\[\middim]
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse &
+Dan Nesmith, Matthew Bishop, Peter Andrews, Sunil Issar, Frank Pfenning, and Hongwei Xi,
+{\em TPS User's Manual}, pp. 84+iii.
+\end{tabular}
+} \\[\middim]
+
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse &
+Peter Andrews, Sunil Issar, Dan Nesmith, Frank Pfenning, Hongwei Xi and Matthew Bishop,
+{\em TPS3 Facilities Guide for Programmers and Users}, pp. 238+viii.
+\end{tabular}
+} \\[\middim]
+
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse &
+Frank Pfenning, Sunil Issar, Dan Nesmith, Peter Andrews, Hongwei Xi and Matthew Bishop,
+{\em ETPS User's Manual}, Version for Basic Logic, Mathematical Logic I \& II, pp. 60+ii. 
+\end{tabular}
+} \\[\middim]
+
+%%%
+%\leftdeco                     & \rightdeco \\[\smalldim]
+%\hbox to \leftdim{\subjectfont Current Projects\hss} & \\[\middim]
+%\multicolumn{2}{c}{%
+%\begin{tabular}{rp{\onecoldim}}
+%\bellipse & {\em Dependently Typed Assembly Language} (joint work with Bob Harper): We
+%are designing an assembly language in which a restricted form of
+%dependent types are available for capturing various properties such as
+%memory safety on assembly code.  This can lead to the generation of
+%highly optimizated mobile code which would otherwise not be possible.
+%\end{tabular}
+%} \\
+
+%\multicolumn{2}{c}{%
+%\begin{tabular}{rp{\onecoldim}}
+%\bellipse & {\em Array bound check elimination in Java Virtual Machine Language (JVML)} (joint work with Songtao Xia): Array bound check elimination in mobile code is difficult since
+%the code is often executed on machines which do not trust the source
+%of the code.  We form a restricted dependent type system for JVML
+%which can capture the property of safe memory access. We then type
+%JVML code with dependent types and verify its well-typedness before
+%execution. The machine on which the code is executed can thus trust
+%the memory safety of the code and save unnecessary array bound checks
+%at run-time.
+%\end{tabular}
+%} \\
+
+%\multicolumn{2}{c}{%
+%\begin{tabular}{rp{\onecoldim}}
+%\bellipse & {\em The de Caml compiler}: I am also writing a compiler for
+%a dialect of Dependent ML (DML) based upon Caml-light, which is a
+%dialect of ML. DML is a programming language I developed in my doctoral
+%thesis, which extends ML with a restricted form of dependent
+%types. The compiler is already able to compile some sample programs
+%such as implementations of FFT, red/black tree data structure, quicksort on arrays,
+%etc. I expect to bootstrap the compiler in the near future.\\[\middim]
+%\end{tabular}
+%} \\
+
+\end{tabular}\end{center}
+\vfill\break
+
+\begin{center}
+\begin{tabular}{rp{\rightdim}}
+                               & \hbox to \rightdim{\hss Page 5 of 6} \\[-18pt]
+
+                               & \rightdeco \\[\smalldim]
+
+\hbox to \leftdim{\subjectfont Invited Talks\hss} & \\[\middim]
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse & Hongwei Xi,
+{\em Compiling with Dependent Types\/}, Invited talk at
+proof-carrying code (PCC) workshop, Santa Barbara, June 2000.
+\end{tabular}
+} \\[\middim]
+
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse &
+Hongwei Xi,
+{\em A Dependently Typed Assembly Language\/},
+ROPAS group, Department of Computer Science,
+Korea Advanced Institute of Sicence and Technology (KAIST),
+Taejon, Korea, 7 April, 1999.
+\end{tabular}
+} \\[\middim]
+
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse &
+Hongwei Xi,
+{\em Dependent Types in Practical Programming\/}
+ROPAS group, Department of Computer Science,
+Korea Advanced Institute of Sicence and Technology (KAIST),
+Taejon, Korea, 6 April, 1999.
+\end{tabular}
+} \\[\middim]
+
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse &
+Hongwei Xi, {\em A Dependently Typed Assembly Language\/}, Invited
+talk at Workshop on Dependent Types in Programming, Applied Semantics
+(APPSEM) group, G{\"o}teborg, Sweden, 27 - 28 March, 1999.
+\end{tabular}
+} \\[\middim]
+
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse &
+Hongwei Xi,
+{\em Dependent Types in Practical Programming\/},
+Invited talk at Formal Methods PI meeting, Stanford University, 29 - 30 October, 1998.
+\end{tabular}
+} \\[\middim]
+
+\leftdeco                     & \rightdeco \\[\smalldim]
+
+\hbox to \leftdim{\subjectfont Conference Presentations\hss} & \\[\middim]
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse & Hongwei Xi,
+{\em Imperative Programming with Dependent Types\/}, 15th IEEE Symposium on Logic in Computer Science (LICS '00), Santa Barbara, June 2000. \\
+\end{tabular}
+} \\
+
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse &
+Hongwei Xi,
+{\em Dependent Types in Practical Programming\/},
+Symposium on Principles of Programming Languages (POPL '99), San Antonio, January, 1999.
+\end{tabular}
+} \\
+
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse &
+Hongwei Xi,
+{\em Dead Code Elimination through Dependent Types\/},
+International Workshop on Practical Aspects of Declarative Languages (PADL '99), San Antonio, January, 1999.
+\end{tabular}
+} \\
+
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse &
+Hongwei Xi,
+{\em Eliminating Array Bound Checking Through Dependent Types\/},
+Programming Language Design and Implementation (PLDI '98), Montreal, June, 1998.
+\end{tabular}
+} \\
+
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse &
+Matthew Bishop and Hongwei Xi,
+{\em The ETPS Educational Theorem Proving System\/},
+The 8th Annual Computing and Philosophy Conference (CAP), Pittsburgh, August, 1993.
+\end{tabular}
+} \\[\middim]
+
+\leftdeco                      & \rightdeco \\[\smalldim]
+
+\hbox to \leftdim{\subjectfont Graduate Student Supervision\hss} & \\[\middim]
+\multicolumn{2}{c}{%
+\begin{tabular}{rp{\onecoldim}}
+\bellipse & Songtao Xia, PhD student, Oregon Graduate Institute, August 1998 - August 1999. \\
+\bellipse & Varun Nayak, MS student, University of Cincinnati, January 2000 - Present. \\
+\bellipse & Zaiwei Du, PhD student, University of Cincinnati, September 2000 - Present. \\[\middim]
+\end{tabular}} \\[\middim]
+
+\end{tabular}\end{center}
+\vfill\break
+
+\begin{center}
+\begin{tabular}{rp{\rightdim}}
+                               & \hbox to \rightdim{\hss Page 6 of 6} \\[-18pt]
+                               & \rightdeco \\
+
+\hbox to \leftdim{\subjectfont Other Information\hss} & \\[\middim]
+{\itemfont Citizenship} & {People's Republic of China} \\
+{\itemfont Visa Type}   & {H-1B} \\
+{\itemfont Referee}     & CSER (Consortium for Software Engineering Research) Book (2000); The First International Conference on Parallel and Distributed Computing, Applications and Technologies (PDCAT) (2000); IEEE Symposium on Logic in Computer Science (LICS) (2000); Journal of Higher-Order Symbolic Computation (2000, 1999); International Conference on Functional Programming (ICFP) (1998); Journal of Information and Computation (1996) \\
+{\itemfont Membership}        & Association of Computing Machinery (ACM); American Mathematical Society (AMS); Kurt G{\"o}del Society (KGS) \\
+%%% {\itemfont Software}          & A lot of self-written code available upon request. \\
+{\itemfont Languages}         & Fluent in Chinese and English. \\[\middim]
+
+\leftdeco                     & \rightdeco \\[\smalldim]
+
+\hbox to \leftdim{\subjectfont  References\hss} & \\[\middim]
+\multicolumn{2}{c}{%
+\begin{tabular}{ll}
+Frank Pfenning (thesis advisor)        & Peter Andrews \\
+Associate Professor                    & Professor \\
+Department of Computer Science         & Department of Mathematical Sciences \\
+Carnegie Mellon University             & Carnegie Mellon University \\
+5000 Forbes Avenue                     & 5000 Forbes Avenue \\
+Pittsburgh, PA 15213                   & Pittsburgh, PA 15213 \\
+Phone: +1 412 268-6343                 & Phone: +1 412 268-2554 \\
+Fax: +1 412 268-3608                   & Fax: +1 412 268-6380 \\
+Email: fp@cs.cmu.edu                   & Email: Peter.Andrews@cmu.edu \\
+Url: http://www.cs.cmu.edu/\char126fp/ & Url: http://www.cs.cmu.edu/\char126andrews/andrews.html \\[\middim]
+
+Robert Harper                          & James Hook \\
+Professor                              & Head and Associate Professor \\
+Department of Computer Science         & Department of Computer Science and Engineering \\
+Carnegie Mellon University             & Oregon Graduate Institute of Science and Technology \\
+5000 Forbes Avenue                     & P. O. Box 91000 \\
+Pittsburgh, PA 15213                   & Portland, OR 97291-1000 \\
+Phone: +1 412 268-3675                 & Phone: +1 503 748-1169 \\
+Fax: +1 412 268-4801                   & Fax: +1 503 748-1548 \\
+Email: rwh@cs.cmu.edu                  & Email: hook@cse.ogi.edu \\
+Url: http://www.cs.cmu.edu/\char126rwh/ & Url: http://www.cse.ogi.edu/\char126hook/ \\[\middim]
+
+Russell Walker (teaching reference) \\       
+Senior Lecturer and Associate Head \\       
+Department of Mathematical Sciences \\      
+Carnegie Mellon University \\               
+5000 Forbes Avenue \\                       
+Pittsburgh, PA 15213 \\                     
+Phone: +1 412 268-2545 \\                   
+Fax:  +1 412 268-6380 \\                    
+Email: Russell.Walker@cmu.edu \\            
+\\[\middim]                                 
+
+%Rami Grossberg & \\
+%Department of Mathematical Sciences & \\    
+%Carnegie Mellon University & \\  
+%5000 Forbes Avenue & \\
+%Pittsburgh, PA 15213 & \\
+%Phone: +1 412 268 8482 & \\
+%Email: rami+@andrew.cmu.edu & \\
+\end{tabular}
+}
+\end{tabular}\end{center}
+
+\end{document}

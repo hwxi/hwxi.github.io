@@ -1,0 +1,124 @@
+                    Research Statement
+
+                       Hongwei Xi
+
+My primary research focuses on the design and implementation of
+programming languages.  As a consequence, I have also developed keen
+interests to promoting software engineering benefits in programming
+through language design. Ideally, a programming language should be
+simple and general, and it should permit extensive error checking,
+facilitate proofs of program properties such as correctness and
+possess a correct and efficient implementation. Invariably there will
+be some conflicts among these goals which must be resolved with
+careful attention to the needs of the user.  In order to make
+significant progress, I believe that it is necessary to adopt
+approaches which can both scale and produce informative feedback. I am
+using a type-based approach for this purpose.
+
+My doctoral thesis investigates the use of dependent types for
+catching program errors at compile-time and for providing compilers
+with information to generate efficient code.  One often pays a price
+for languages which impose no discipline of types in the time taken to
+find and fix rather inscrutable bugs. I learned this lesson when I was
+maintaining a theorem prover system TPS, which contains more than
+100,000 lines of code written in Common Lisp. The use of types for
+code optimization, such as passing types to a polymorphic routine to
+help eliminate boxing and/or tagging objects, is a relatively recent
+discovery. After analyzing various examples, I have been convinced
+that in many cases a stronger type system than that of Standard ML is
+desirable.  For instance, it is desirable to express the permutation
+invariant in the type of a quicksort function since a correct
+implementation of the quicksort algorithm should always return a
+permutation of the input list; also it is desirable to express the
+type of a safe array access operation since a compiler can then
+eliminate run-time array bound checks after type-checking.  However,
+when designing a type system stronger than that of ML, one must be
+cautious about the decidability and practicality of type
+reconstruction and the amount of required explicit type information
+for type-checking since these issues are crucial to facilitating
+unobtrusive programming styles.
+
+As part of my thesis, I have developed a conservative enrichment of
+the type system of ML with dependent types, in which properties like
+the permutation invariant and safe array access can be expressed
+through dependent types.  This leads to a programming language {\em
+Dependent ML} (DML).  The enriched type system parameterizes over
+either a built-in or a user-declared domain of constraints from which
+the type index objects are drawn. It is then demonstrated that the
+type-checking can be reduced to the satisfiability of the constraints
+generated during an elaboration process.  For instance, the subscript
+operation 'sub' for arrays can be assigned the following type
+
+ sub <| {size:nat}{i:nat| i < size} 'a array(size) * int(i) -> 'a
+
+which states that for every pair of natural number 'size' and 'i'
+satisfying 'i' < 'size', 'sub' returns an element of type 'a if given
+an 'a array of size 'size' and an integer equal to 'i'. Clearly, if a
+function of this type is called, there is no need for inserting
+run-time array bound checks to check possible memory violations. I
+have formalized a type-checking algorithm for the enriched type system
+and proven its correctness for the core of ML, i.e., ML without module
+constructs.
+
+As another part of my thesis, I have implemented the type-checking
+algorithm and a linear constraint solver for integer domain in
+Standard ML of New Jersey (SML/NJ).  The results are exciting. For
+instance, I have verified that no array bound checks are needed in
+many real examples such as an optimized quicksort function and a
+binary search function in the SML/NJ library, an optimized
+implementation of FFT, a highly optimized byte copy function used in
+the Fox project, etc.  I have also measured the gain from eliminating
+array bound checks in many programs, which ranges from 15% to
+75%. For capturing program errors, one interesting case is that I
+have verified that the insertion operation always returns a red/black
+tree if given a red/black tree, observing that this invariant indeed
+helped capture several bugs in practice.  In all of these cases, the
+type information supplied by the programmer for type-checking is
+moderate, usually consisting of less than 20% of the entire code.  In
+addition, most of the type information can also serve as infromative
+program documentation, which is mechanically checked and therefore can
+be fully trusted. I feel that this yields a strong justification for
+the type-based approach I have adopted.
+
+After taking a postdoctoral research position at Oregon Graduate
+Institute (OGI), I, with Robert Harper at Carnegie Mellon University,
+have started designing a dependently typed assembly language so that
+the type information in programs written in a high-level language such
+as ML can be smoothly passed down to the assembly code compiled from
+the programs. This research is exhibiting many exciting new
+opportunities for performing various aggresive compiler optimizations.
+As a siginificant application, I, with Songtao Xia at OGI, am
+designing a dependent type system for a subset of Java virtual machine
+language (JVML) so that array bound check elimination can be performed
+in JVML bytecode. We regard this as a necessary step towards producing
+a high performance Java compiler.  Also I am writing a compiler for
+{\em dependent Caml} (de Caml), a dialact of DML based upon Caml,
+which is a dialect of ML. At this moment, the compiler is already able
+to compile some small programs such as implementations of red black
+trees, quicksort on arrays, FFT, etc.  We anticipate to bootstrap the
+compiler in the near future.
+
+My future research plans include further investigation of the use of
+dependent types in program error detection and compiler
+optimization. I anticipate extending my approach with linear types and
+conjunction types to cope with imperative and object-oriented features
+in programming languages such as Java. It is well-known that for
+safety reasons, Java code must perform array bound checks before
+performing array accesses. This opens up a great opportunity for
+studying array bound check elimination in an imperative setting.  A
+perspective in a larger scale along this line is to use dependent
+types carrying other safety properties such as termination so that a
+local host can verify these properties before executing the code
+downloaded from an untrusted source.
+
+Also I have retained an interest in typed and untyped lambda-calculi,
+automated theorem proving, and term rewriting systems. In this
+direction my primary concern is to study the evaluation of open code,
+i.e., code containing free variables, and to find a satisfactory
+framework for proving program terminations. This is intimately related
+to the studies on program transformation.
+
+I hope to collaborate with both programming language theorists and
+software system practitioners in the future, making significant
+contributions to the goal of designing and implementing a programming
+language which is both high-level and efficient.
